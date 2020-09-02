@@ -12,9 +12,10 @@ I will describe which skills I want to learn this semester. I will not only talk
 
 ### Technical skills
 
-<!-- Dit semester wil ik dieper in gaan op security aspecten die we al gehad hebben bij software engineering. Daar worden deze onderwerpen vaak kort aan gestipt en is er geen tijd om er echt goed op in te gaan. Verder wil ik diep ingaan op cryptografie omdat dit een onderwerp is wat mij erg interessant lijkt en iets is waar ik al langer mee bezig wil gaan. Als laaste wil ik ook leren reverse engineren omdat ik denk dat je veel kan leren van de aanpak en fouten van anderen. -->
+This semester I really want to do more with red teaming. During my specialisation I have learned a lot of ways to take adventage of secuirty flaws. Even tough I have learned all these ways I still have not much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to easily do some red team hacking. Furthemore I really am excited to learn how to reverse engineer. I think this has very much potentional but never learned how to do it.
 
 ### Procedural skills
+
 
 <!-- De procedurele vaardigheden waar ik dit semester aan wil werken zijn het rapporteren en security testing. Aan het rapporteren moet ik werken omdat dit voor mij met mijn dyslectie een lastig onderwerp blijft. Security testing is een nieuw onderwerp voor mij en daarom zal ik daar ook aan moeten werken. -->
 
