@@ -45,3 +45,7 @@ header h1 {
 .navigation {
   font-size: 23px;
 }
+
+#a-title {
+  text-decoration: none;
+}
