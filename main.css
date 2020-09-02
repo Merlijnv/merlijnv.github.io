@@ -64,6 +64,7 @@ header h1 {
 
 .card:hover {
   box-shadow: 0 0 16px 8px #b5e853;
+  cursor: pointer;
 }
 
 
