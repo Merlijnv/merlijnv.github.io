@@ -41,3 +41,7 @@ header h1 {
 .container {
   max-width: 1300px;
 }
+
+.navigation {
+  font-size: 23px;
+}
