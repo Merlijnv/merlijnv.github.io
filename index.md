@@ -1,7 +1,7 @@
 # Cyber Security
 ## Merlijn Vermeer
 
-<div class="row">
+<div class="flex">
     <div class="card">
         <img src="learningplan.png" alt="Learning plan" style="width:100%">
         <div class="container">

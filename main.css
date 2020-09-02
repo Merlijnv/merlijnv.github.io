@@ -53,15 +53,16 @@ header h1 {
 /* Cards */
 
 .card {
-  box-shadow: 0 4px 8px 0 #b5e853;
+  box-shadow: 0 0 8px 4px #b5e853;
   transition: 0.3s;
   width: 25%;
   background-color: #151515;
   border-radius: 5px; /* 5px rounded corners */
+  margin: 0 auto;
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 #b5e853;
+  box-shadow: 0 0 16px 8px #b5e853;
 }
 
 
@@ -71,3 +72,6 @@ header h1 {
   width: 50px;
 }
 
+.flex {
+  display: flex;
+}
