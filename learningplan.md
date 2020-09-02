@@ -1,12 +1,14 @@
 # Learning plan
 
+In this page I will do the following.
+
 - Describe the skills (technical, procedural, attitude, soft skills) and experience that you want to get this semester.
 - Describe your learning wishes and goals for this semester, with a global explanation of the learning activities you are going to do.
 - Add a prioritised and planned list of the learning activities. Use this planning to track and manage your progress. Have this list approved by your coach and specialisation teacher.
 
 ## Skills
 
-<!-- In dit hoofdstuk worden de vaardigheden beschreven die ik dit semester wil leren. Hierbij gaat het niet alleen over technische vaardigheden. Aan de hand van deze vaardigheden wordt er uiteindelijk een planning gemaakt. -->
+I will describe which skills I want to learn this semester. I will not only talk about technical skills. I will also talk about my professional development, procedural and soft skills. Based on these skills I will start planning.
 
 ### Technical skills
 
