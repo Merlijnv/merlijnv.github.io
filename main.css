@@ -29,3 +29,7 @@ table td:first-child {
 table td:nth-child(2) {
   width: 2em;
 }
+
+header h1::before {
+  content: "";
+}
