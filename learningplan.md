@@ -1,10 +1,10 @@
 # Learning plan
 
-In this page I will do the following.
+On this page, I will do the following.
 
 - Describe the skills (technical, procedural, attitude, soft skills) and experience that you want to get this semester.
 - Describe your learning wishes and goals for this semester, with a global explanation of the learning activities you are going to do.
-- Add a prioritised and planned list of the learning activities. Use this planning to track and manage your progress. Have this list approved by your coach and specialisation teacher.
+- Add a prioritized and planned list of the learning activities. Use this planning to track and manage your progress. Have this list approved by your coach and specialization teacher.
 
 ## Skills
 
@@ -12,7 +12,7 @@ I will describe which skills I want to learn this semester. I will not only talk
 
 ### Technical skills
 
-This semester I really want to do more with red teaming. During my specialisation I have learned a lot of ways to take adventage of secuirty flaws. Even tough I have learned all these ways I still have not much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to easily do some red team hacking. Furthemore I really am excited to learn how to reverse engineer. I think this has very much potentional but never learned how to do it.
+This semester I want to do more with red teaming. During my specialization I have learned a lot of ways to take advantage of security flaws. Even though I have learned all these ways I still have not much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to easily do some red team hacking. Furthermore I am excited to learn how to reverse engineer. I think this has very much potential but never learned how to do it.
 
 ### Procedural skills
 
