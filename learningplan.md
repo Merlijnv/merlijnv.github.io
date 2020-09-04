@@ -28,8 +28,8 @@ The soft skills I want to work on this semester are documentation and feedback, 
 
 ## Wensen en goals
 
-This semester I want to ...
-TODO
+This semester I want to get more (close to) real-life experiënce on red teaming. I want to more with hack the box and learn more about good tooling to use for red teaming.
+My goal is to have a good hacking environment with good tooling and more experience in using those tools at the end of the semester.
 
 ## Planning
 
