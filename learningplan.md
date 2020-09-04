@@ -20,7 +20,7 @@ The procedural skill I want to work on this semester is documentation. I always 
 
 ### Attitude
 
-<!-- Ik wil dit semester er voor zorgen dat ik meer uit ga van security by design. De veiligheid van internet gerelateerde items wordt een steeds groter topic in de media en wordt hierdoor steeds belangrijk voor bedrijven en overheden. Hierdoor verwacht ik dat werkgevers steeds meer gaan verlangen naar het ontwerpen met de veiligheid als eerste gedachten. -->
+This semester I also want to ask for more feedback. I want to make sure that I always have my documentation and work up to date so that I can ask for feedback at any moment. I am planning to make a planning every for when I want to ask feedback and make sure I do it on time and don't postpone asking for feedback. I also want to make use of the open workshop and optional exercises to learn the most out of this semester. There are a lot of things that interest me for this semester. So if I have all my necessary work under control I can also do the optional exercises.
 
 ### Soft Skills
 
