@@ -30,15 +30,15 @@ td {
   border: 1px solid #373737;
 }
 
-table td:first-child {
+.planning td:first-child {
   width: 2em;
 }
 
-table td:nth-child(2) {
+.planning td:nth-child(2) {
   width: 2em;
 }
 
-table td:nth-child(3), table td:nth-child(4) {
+.planning td:nth-child(3), table td:nth-child(4) {
   width: 44%;
 }
 
