@@ -12,7 +12,7 @@ I will describe which skills I want to learn this semester. I will not only talk
 
 ### Technical skills
 
-This semester I want to do more with red teaming. During my specialization I have learned a lot of ways to take advantage of security flaws. Even though I have learned all these ways I still have not much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to easily do some red team hacking. Furthermore I am excited to learn how to reverse engineer. I think this has very much potential but never learned how to do it.
+This semester I want to do more with red teaming. During my specialization, I have learned a lot of ways to take advantage of security flaws. Even though I have learned all these ways I still have not much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to easily do some red team hacking. Furthermore, I am excited to learn how to reverse engineer. I think this has very much potential but never learned how to do it.
 
 ### Procedural skills
 
@@ -54,14 +54,14 @@ TODO
 | 17   | 52      |                                                                                                                                                                                                                                                                                                                                                                                                                     | S: Perform a vulnerability analysis on a (smartphone) app. Report your findings through responsible disclosure.                               |
 | 17   | 52      |                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                               |
 
-"*" are the blue vs red events
+"*" is the blue vs red events
 
 
-The next excercises/challenges are planned for the whole semester because this is part of my R&D project.
+The next exercises/challenges are planned for the whole semester because this is part of my R&D project.
 S: Look into the security of IoT or OT (e.g. PLC) protocols and technology and find and replay one or more hacks or other security incidents in a test environment. 
-C: Contribute to the INTERSECT (Links to an external site.) research by demonstrating known or new attack scenario's in 'Smart Energy' applications, for example in electric vehicle charging networks end endpoints/apps/..., smart energy home applications and energy systems, etc.
+C: Contribute to the INTERSECT (Links to an external site.) research by demonstrating known or new attack scenario's in 'Smart Energy' applications, for example in electric vehicle charging networks end endpoints/apps/..., smart energy home applications, and energy systems, etc.
 
-I have prioritized the excercises and challenges I want to do this semester.
+I have prioritized the exercises and challenges I want to do this semester.
 
 ### Exercises
 
