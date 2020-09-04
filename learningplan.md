@@ -57,7 +57,7 @@ TODO
 "*" are the blue vs red events
 
 
-The next ones are for the whole semester planned because this is part of my R&D project.
+The next excercises/challenges are planned for the whole semester because this is part of my R&D project.
 S: Look into the security of IoT or OT (e.g. PLC) protocols and technology and find and replay one or more hacks or other security incidents in a test environment. 
 C: Contribute to the INTERSECT (Links to an external site.) research by demonstrating known or new attack scenario's in 'Smart Energy' applications, for example in electric vehicle charging networks end endpoints/apps/..., smart energy home applications and energy systems, etc.
 
