@@ -26,7 +26,7 @@ This semester I also want to ask for more feedback. I want to make sure that I a
 
 The soft skills I want to work on this semester are documentation and feedback, as mentioned above. These skills are my main holdback I have a lot of experience with other soft skills like communication and presentation. But I still lack asking feedback and documentation.
 
-## Wensen en goals
+## wishes and goals
 
 This semester I want to get more (close to) real-life experiënce on red teaming. I want to more with hack the box and learn more about good tooling to use for red teaming.
 My goal is to have a good hacking environment with good tooling and more experience in using those tools at the end of the semester.
