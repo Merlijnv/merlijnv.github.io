@@ -8,24 +8,23 @@ On this page, I will do the following.
 
 ## Skills
 
-I will describe which skills I want to learn this semester. I will not only talk about technical skills. I will also talk about my professional development, procedural and soft skills. Based on these skills I will start planning.
+I will describe which skills I want to learn this semester. I will not only talk about technical skills. I will also talk about my professional development, procedural and soft skills. Based on these skills, I will start planning.
 
 ### Technical skills
 
-This semester I want to do more with red teaming. During my specialization, I have learned a lot of ways to take advantage of security flaws. Even though I have learned all these ways I still have not much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to easily do some red team hacking. Furthermore, I am excited to learn how to reverse engineer. I think this has very much potential but never learned how to do it.
+This semester I want to do more with red teaming. During my specialization, I have learned a lot of ways to take advantage of security flaws. Even though I have learned all these ways, I still have not much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to make red team hacking easiër. Furthermore, I am excited to learn how to reverse engineer. I think this has a lot of potentials but never learned how to do it.
 
 ### Procedural skills
 
+The procedural skill I want to work on this semester is documentation. I always have a problem with making documentation. I don't have the motivation to make good documentation. I always postpone making documentation or don't take lots of time for it. I think it will be easier to learn on that skill this semester because of the documentation I need to make. Because I will have more motivation when writing writeups of hack the boxes, but I still need to learn how to take more time than I normally do.
 
-<!-- De procedurele vaardigheden waar ik dit semester aan wil werken zijn het rapporteren en security testing. Aan het rapporteren moet ik werken omdat dit voor mij met mijn dyslectie een lastig onderwerp blijft. Security testing is een nieuw onderwerp voor mij en daarom zal ik daar ook aan moeten werken. -->
-
-### Professional development
+### Attitude
 
 <!-- Ik wil dit semester er voor zorgen dat ik meer uit ga van security by design. De veiligheid van internet gerelateerde items wordt een steeds groter topic in de media en wordt hierdoor steeds belangrijk voor bedrijven en overheden. Hierdoor verwacht ik dat werkgevers steeds meer gaan verlangen naar het ontwerpen met de veiligheid als eerste gedachten. -->
 
 ### Soft Skills
 
-TODO
+
 
 ## Wensen en goals
 
