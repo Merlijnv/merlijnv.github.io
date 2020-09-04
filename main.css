@@ -11,6 +11,8 @@ table {
   border: 1px solid #373737;
   margin-bottom: 20px;
   text-align: left;
+  margin: 0 -30%;
+  width: 160%;
 }
 
 th {
@@ -33,6 +35,11 @@ table td:first-child {
 table td:nth-child(2) {
   width: 2em;
 }
+
+table td:nth-child(3), table td:nth-child(4) {
+  width: 46%;
+}
+
 
 header h1::before {
   content: "";
