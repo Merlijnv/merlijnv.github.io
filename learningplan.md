@@ -12,7 +12,7 @@ I will describe which skills I want to learn this semester. I will not only talk
 
 ### Technical skills
 
-This semester I want to do more with red teaming. During my specialization, I have learned a lot of ways to take advantage of security flaws. Even though I have learned all these ways, I still do not have much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to make red team hacking easiër. Furthermore, I am excited to learn how to reverse engineer. I think this has a lot of potentials but never learned how to do it.
+This semester I want to do more with red teaming. During my specialization, I have learned a lot of ways to take advantage of security flaws. Even though I have learned all these ways, I still do not have much experience to go from enumeration to exploitation and infiltration. I want to practice more boxes on hack the box and learn more ways to make red team hacking easier. Furthermore, I am excited to learn how to reverse engineer. I think this has a lot of potentials but never learned how to do it.
 
 ### Procedural skills
 
