@@ -31,6 +31,10 @@ The soft skills I want to work on this semester are documentation and feedback, 
 This semester I want to get more (close to) real-life experiënce on red teaming. I want to more with hack the box and learn more about good tooling to use for red teaming.
 My goal is to have a good hacking environment with good tooling and more experience in using those tools at the end of the semester.
 
+# Personal challenge
+
+I have a project/tool that catched my interest some time ago called p4wnp1 this is a very nice pentesting tool. This tool got a rework called (p4wnp1 aloa)[https://github.com/RoganDawes/P4wnP1_aloa] which me and another student made some payloads for. My challenge is to make more payloads for this tool and explore the possibilities of this tool. Also I want to give a lecture about it to other students and make the payloads available to them.
+
 ## Planning
 
 
