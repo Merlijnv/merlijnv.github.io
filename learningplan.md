@@ -33,8 +33,6 @@ My goal is to have a good hacking environment with good tooling and more experie
 
 ## Planning
 
-<div class="planning">
-
 | Week | Week | Excercises                                                                                                                                | Challenges                                                                                                                                    |
 | ---- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | 36   | M: Set up your personal toolbox environments for pen-testing and red teaming                                                              | M: Own one of the active Linux based machines in Hack the Box and create a write-up of it                                                     |
@@ -55,7 +53,6 @@ My goal is to have a good hacking environment with good tooling and more experie
 | 17   | 52   |                                                                                                                                           | S: Perform a vulnerability analysis on a (smartphone) app. Report your findings through responsible disclosure.                               |
 | 17   | 52   |                                                                                                                                           |                                                                                                                                               |
 
-</div>
 
 "*" is the blue vs red events
 
