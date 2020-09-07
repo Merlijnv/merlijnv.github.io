@@ -17,7 +17,7 @@
     <div class="card" onclick="location.href='{{site.baseurl}}/results';">
         <img src="results.png" alt="Results" style="width:100%">
         <div class="container">
-            <h4><b></b></h4>
+            <h4><b>Results</b></h4>
         </div>
     </div>
 </div>
