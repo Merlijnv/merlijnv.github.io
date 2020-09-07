@@ -33,7 +33,6 @@ My goal is to have a good hacking environment with good tooling and more experie
 
 ## Planning
 
-<div class="planning">
 
 | Week | Week | Excercises                                                                                                                                | Challenges                                                                                                                                    |
 | ---- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,8 +53,7 @@ My goal is to have a good hacking environment with good tooling and more experie
 | 16   | 51   | S: With a red teaming perspective visit a local building ...                                                                              |                                                                                                                                               |
 | 17   | 52   |                                                                                                                                           | S: Perform a vulnerability analysis on a (smartphone) app. Report your findings through responsible disclosure.                               |
 | 17   | 52   |                                                                                                                                           |                                                                                                                                               |
-
-</div>
+{: .planning}
 
 "*" is the blue vs red events
 
