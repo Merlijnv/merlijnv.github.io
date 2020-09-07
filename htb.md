@@ -2,11 +2,11 @@
 
 I have made some writeups of hackthebox (Linux and Windows).
 
-## [Linux machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf)
+## [Linux machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf){: width="250px" align="right"}
 
 ![Linux machine writeup](cache.png)
 
-## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf)
+## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf){: width="250px" align="right"}
 
 ![Windows machine writeup](buff.png)
 
