@@ -1,4 +1,4 @@
-# Hack the box
+# Hack The Box
 
 ## [Linux machine writeup](http://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf)
 
