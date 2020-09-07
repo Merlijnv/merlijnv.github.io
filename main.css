@@ -79,6 +79,9 @@ header h1 {
   cursor: pointer;
 }
 
+.card h4 {
+  font-size: 22px;
+}
 
 /* Add rounded corners to the top left and the top right corner of the image */
 .card img {
