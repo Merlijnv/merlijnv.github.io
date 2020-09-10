@@ -2,9 +2,14 @@
 
 On this page, I will do the following.
 
+- explain my specialization choise.
 - Describe the skills (technical, procedural, attitude, soft skills) and experience that you want to get this semester.
 - Describe your learning wishes and goals for this semester, with a global explanation of the learning activities you are going to do.
 - Add a prioritized and planned list of the learning activities. Use this planning to track and manage your progress. Have this list approved by your coach and specialization teacher.
+
+## Specialization Red Teaming
+
+I have chosen for Red Teaming as my specialization. I have done csa and csb and really enjoyed redteaming. I have done some hacktheboxes in my free time. I also made a repository to do whid payloads for the p4wnp1 and general whid usb's.
 
 ## Skills
 
