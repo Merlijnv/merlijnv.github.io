@@ -1,12 +1,12 @@
 # Results
-Als resultaat van deze minor heb ik veel dingen kunnen aantonen. Maar ook veel dingen die mijzelf veel interesseerde uigeprobeerd.
-Hieronder zal ik kort vertellen over de dingen die ik heb gedaan met mogelijk een link naar de uitgebreide uitleg en bewijzen.
+As a result of this minor I have been able to demonstrate many things. But also tried many things that interested me a lot.
+Below I will briefly tell you about the things I have done with possibly a link to the detailed explanation and evidence.
 
 ## [Hack The Box](htb)
-Ik ben dit semester begonnen met Hack The Box hierbij heb ik 2 writeups van active boxes zelf gemaakt. Verder ben ik bezig geweest met fortress (Jet). En heb ik veel geleerd met Hack The Box challenges.
+I started this semester with Hack The Box, where I made 2 writeups of active boxes myself. I have also been working on fortress (Jet). And I learned a lot with Hack The Box challenges.
 
 ## [Pentests](pentests)
-Ik heb dit semester meerdere pentests uitgevoerd in [R&D Project](project) kan je meer lezen over die specifieke pentest.  verder vertel ik meer over de andere pentests die ik heb gedaan op het project van [Marc van Bommel](https://marcvanbommel.github.io/) en over de pentest bij een bedrijf mogelijk.
+I have conducted several pentests this semester in [R&D Project](project) you can read more about that specific pentest. I will also tell you more about the other pentests I have done: about the project of [Marc van Bommel](https://marcvanbommel.github.io/) and possibly about the pentest for a company.
 
 ## [Tooling](tooling)
-Verder ben ik bezig geweest met p4wnp1 hierover heb ik een lecture gegeven bij red teaming. Verder heb ik hier meerdere payloads voor geschreven en deze makkelijk beschikbaar gemaakt. Ik heb ook een guide geschreven om van de p4wnp1 een dropbox te maken.
+I have also been working on p4wnp1 about this I gave a lecture at red teaming. I also wrote several payloads for this and made them easily available. I've also written a guide to turn the p4wnp1 into a dropbox.
