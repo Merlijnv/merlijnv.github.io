@@ -1,5 +1,4 @@
 # Results
-
 Als resultaat van deze minor heb ik veel dingen kunnen aantonen. Maar ook veel dingen die mijzelf veel interesseerde uigeprobeerd.
 Hieronder zal ik kort vertellen over de dingen die ik heb gedaan met mogelijk een link naar de uitgebreide uitleg en bewijzen.
 
