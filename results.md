@@ -6,7 +6,7 @@ Hieronder zal ik kort vertellen over de dingen die ik heb gedaan met mogelijk ee
 ## [Hack The Box](htb)
 Ik ben dit semester begonnen met Hack The Box hierbij heb ik 2 writeups van active boxes zelf gemaakt. Verder ben ik bezig geweest met fortress (Jet). En heb ik veel geleerd met Hack The Box challenges.
 
-## [Pentests](pentest)
+## [Pentests](pentests)
 Ik heb dit semester meerdere pentests uitgevoerd in [R&D Project](project) kan je meer lezen over die specifieke pentest.  verder vertel ik meer over de andere pentests die ik heb gedaan op het project van [Marc van Bommel](https://marcvanbommel.github.io/) en over de pentest bij een bedrijf mogelijk.
 
 ## [Tooling](tooling)
