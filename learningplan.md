@@ -43,25 +43,25 @@ I have a project/tool that catched my interest some time ago called p4wnp1 this 
 ## Planning
 
 
-| Week | Week | Excercises                                               | Challenges                                                                  | Workshops |
-|------|------|----------------------------------------------------------|-----------------------------------------------------------------------------|-----------|
-| 1    | 36   | M: Personal toolbox environments                         | M: Linux based machines in Hack the Box write-up                            |           |
-| 2    | 37   | M: Challenges in all categories; M: pen-tester vacancies | M: Windows based machines in Hack the Box write-up                          |           |
-| 3    | 38   |                                                          |                                                                             |           |
-| 4    | 39   | S: Reversing of smartphone apps                          | M: Work on challenge(s) of your personal interest.                          |           |
-| 5    | 40   |                                                          | M: pen-test an product of one of the cyber security R&D project.            |           |
-| 6    | 41   |                                                          | M: Prepare towards a Red Team - Blue Team exercise (day/event)              |           |
-| 7    | 42   |                                                          |                                                                             |           |
-| 8*   | 44   |                                                          | C: pen-test an product of the security engineering students.                |           |
-| 9    | 45   | M: Experiment with phishing tooling.                     | M: pen-test an product of R&D project.                                      |           |
-| 10   | 46   |                                                          | S: Visit seminars or conferences                                            |           |
-| 11   | 47   | C: Develop a dropbox.                                    |                                                                             |           |
-| 12   | 48   |                                                          |                                                                             |           |
-| 13   | 49   |                                                          |                                                                             |           |
-| 14   | 50   |                                                          |                                                                             |           |
-| 15*  | 51   |                                                          | S: Perform vulnerability analysis on a device (hardware/consumer products). |           |
-| 16   | 1    | S: Red teaming perspective visit                         |                                                                             |           |
-| 17   | 2    |                                                          | S: Vulnerability analysis on a (smartphone) app.                            |           |
+| Week | Week | Excercises                                               | Challenges                                                                  | Workshops                        |
+|------|------|----------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------|
+| 1    | 36   | M: Personal toolbox environments                         | M: Linux based machines in Hack the Box write-up                            |                                  |
+| 2    | 37   | M: Challenges in all categories; M: pen-tester vacancies | M: Windows based machines in Hack the Box write-up                          |                                  |
+| 3    | 38   |                                                          |                                                                             | Open Source Intelligence (OSINT) |
+| 4    | 39   | S: Reversing of smartphone apps                          | M: Work on challenge(s) of your personal interest.                          |                                  |
+| 5    | 40   |                                                          | M: pen-test an product of one of the cyber security R&D project.            | Computer Forensics               |
+| 6    | 41   |                                                          | M: Prepare towards a Red Team - Blue Team exercise (day/event)              |                                  |
+| 7    | 42   |                                                          |                                                                             | Network Forensics                |
+| 8*   | 44   |                                                          | C: pen-test an product of the security engineering students.                |                                  |
+| 9    | 45   | M: Experiment with phishing tooling.                     | M: pen-test an product of R&D project.                                      |                                  |
+| 10   | 46   |                                                          | S: Visit seminars or conferences                                            |                                  |
+| 11   | 47   | C: Develop a dropbox.                                    |                                                                             | Reverse Engineering              |
+| 12   | 48   |                                                          |                                                                             |                                  |
+| 13   | 49   |                                                          |                                                                             | Firmware Analysis                |
+| 14   | 50   |                                                          |                                                                             |                                  |
+| 15*  | 51   |                                                          | S: Perform vulnerability analysis on a device (hardware/consumer products). | TBD                              |
+| 16   | 1    | S: Red teaming perspective visit                         |                                                                             |                                  |
+| 17   | 2    |                                                          | S: Vulnerability analysis on a (smartphone) app.                            |                                  |
 {: .planning}
 
 "*" is the blue vs red events
