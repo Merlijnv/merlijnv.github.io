@@ -1,4 +1,4 @@
-![Merlijn Vermeer](http://www.merlijnvermeer.nl/profile_round.png){: width="250px" align="right"}
+![Merlijn Vermeer](https://www.merlijnvermeer.nl/profile_round.png){: width="250px" align="right"}
 # About me
 
 Who am I u ask? My name is Merlijn Vermeer I am a student at Fontys ICT.
