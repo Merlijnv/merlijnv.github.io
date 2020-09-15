@@ -11,4 +11,13 @@ For the payloads of the p4wnp1 you can check my (and Rick Theeuwes) [github repo
 
 ## Dropbox
 
+![Covert channel shell](images/covertshell.png){: width="400px" align="right"}
+## Covert channel
+As an extra challenge I wanted to use covert shell to create a shell and interact with it even when the pc is not connnected to any internet connection.
+
+I made a script that runs a covert shell by connecting the pc to the p4wnp1 this process keeps connecting receiving and sending data and after that deleting all the evidence and connection. In the next image you see the powershell that can  be easily hidden but is showing for testing purposes. The connection with the p4wnp1 is slow but not tracable.
+
+![p4wnp1 result](images/p4wnp1result.jpg){: width="400px" align="right"}
+
+
 
