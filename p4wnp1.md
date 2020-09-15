@@ -17,7 +17,5 @@ As an extra challenge I wanted to use covert shell to create a shell and interac
 
 I made a script that runs a covert shell by connecting the pc to the p4wnp1 this process keeps connecting receiving and sending data and after that deleting all the evidence and connection. In the next image you see the powershell that can  be easily hidden but is showing for testing purposes. The connection with the p4wnp1 is slow but not tracable. The p4wnp1 creates an screen session which I can open and interact with when I am connected to the p4wnp1 this can also be done with an vpn connection to the p4wnp1. The p4wnp1 only needs to be in range of the target to keep the covert channel connected.
 
-<div style="display: flex">
-![Covert channel shell](images/covertshell.png){: width="63%"}
-![p4wnp1 result](images/p4wnp1result.jpg){: width="37%"}
-</div>
+![Covert channel shell](images/covertshell.png){: width="63%" float="left" style="margin-bottom: 10px"}
+![p4wnp1 result](images/p4wnp1result.jpg){: width="37%" float="right"}
