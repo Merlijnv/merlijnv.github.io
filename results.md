@@ -10,3 +10,6 @@ I have conducted several pentests this semester in [R&D Project](project) you ca
 
 ## [Tooling](tooling)
 I have also been working on p4wnp1 about this I gave a lecture at red teaming. I also wrote several payloads for this and made them easily available. I've also written a guide to turn the p4wnp1 into a dropbox.
+
+## P4wnp1(p4wnp1)
+I have a raspberry pi zero w where I 3d printed a case for and on which I run [P4wnp1 aloa](https://github.com/RoganDawes/P4wnP1_aloa) so I can use it as a hid hacking tool but also as a dropbox. I have written several payloads for this. I also have an explanation of how I made the P4wnp1 function as a dropbox.
