@@ -9,6 +9,7 @@ In this environment, I have installed kali full op with another [gobuster](https
 ## P4wnp1
 I have a raspberry pi zero w where I 3d printed a case for and on which I run [P4wnp1 aloa](https://github.com/RoganDawes/P4wnP1_aloa) so I can use it as a hid hacking tool but also as a dropbox. I have written several payloads for this that you can read more about below. I also have an explanation of how I made the P4wnp1 function as a dropbox.
 [read more](p4wnp1)
+![Rasberry pi 4 usb c gadget](images/p4wnp1case.jpg)
 
 ## Raspberry pi 4
 I also have a mobile kali running on my raspberry pi 4 that I can use if I want to have multiple screens.
