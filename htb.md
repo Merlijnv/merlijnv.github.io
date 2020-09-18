@@ -17,6 +17,7 @@ I have made some writeups of hackthebox (Linux and Windows).
 
 For the password for the writeups check canvas.
 
+## Fortress
 After having done multiple boxes with different difficulties I also wanted to try fortress as a challenge. This is a machine made by a company with multiple flags and not only user and root flags.
 
 <script src="https://www.hackthebox.eu/badge/268216"></script>
