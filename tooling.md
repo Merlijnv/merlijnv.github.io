@@ -7,7 +7,7 @@ For my main kali / hacking machine, I made a kali VM on my server at home using 
 In this environment, I have installed kali full op with another [gobuster](https://github.com/OJ/gobuster). this is a directory and DNS fuzzer that I prefer.
 
 ## P4wnp1
-![Rasberry pi 4 usb c gadget](images/p4wnp1case.png){: width="36%" float="right"}
+![Rasberry pi 4 usb c gadget](images/p4wnp1case.png){: width="36%" style="float:right"}
 
 I have a raspberry pi zero w where I 3d printed a case for and on which I run [P4wnp1 aloa](https://github.com/RoganDawes/P4wnP1_aloa) so I can use it as a hid hacking tool but also as a dropbox. I have written several payloads for this that you can read more about below. I also have an explanation of how I made the P4wnp1 function as a dropbox.
 [read more](p4wnp1)
