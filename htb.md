@@ -4,6 +4,8 @@
 
 You can find my htb profile [here](https://app.hackthebox.eu/profile/268216) and our team [here](https://www.hackthebox.eu/teams/profile/3155)
 
+## Writeups
+
 I have made some writeups of hackthebox (Linux and Windows).
 
 ## [Linux machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf){: style="float: left; width: 50%"}
