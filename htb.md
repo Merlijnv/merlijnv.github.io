@@ -4,7 +4,7 @@ I have made some writeups of hackthebox (Linux and Windows).
 
 ## [Linux machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf){: style="float: left; width: 50%"}
 
-## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf){: style="float: right; width: 50%; margin-top: -5px;"}
+## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf){: style="float: right; width: 50%; margin-top: -4px;"}
 
 ![Linux machine writeup](images/cache.png){: width="50%" style="float: left;"}
 
