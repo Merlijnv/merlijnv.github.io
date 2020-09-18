@@ -2,18 +2,13 @@
 
 I have made some writeups of hackthebox (Linux and Windows).
 
+## [Linux machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf){: style="float: left; width: 30%"}
 
-| ## [Linux machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf) | ## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf) |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| ![Linux machine writeup](images/cache.png){: width="500px"}                                   | ![Windows machine writeup](images/buff.png){: width="500px"}                                      |
+![Linux machine writeup](images/cache.png){: width="500px" style="float: left;"}
 
-## [Linux machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtblinux.pdf)
+## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf){: style="float: right; width: 30%"}
 
-![Linux machine writeup](images/cache.png){: width="500px"}
-
-## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf)
-
-![Windows machine writeup](images/buff.png){: width="500px"}
+![Windows machine writeup](images/buff.png){: width="500px" style="float: right;"}
 
 For the password for the writeups check canvas.
 
