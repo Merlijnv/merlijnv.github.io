@@ -19,11 +19,11 @@ I already have Kali Linux for arm installed on my raspberry pi 4 but this is not
 To set this up you want it to be able to be dropped somewhere easy and fast and connect to it remotely after dropping it.
 
 To get the dropbox to work I needed that kali to automatically login because if we don't do that the pi won't connect to the internet.
-I have created keys and coppied them to all the needed devices to have a secure connection with key authentication.
+I have created keys and copied them to all the needed devices to have a secure connection with key authentication.
 
 ### Autossh
-auto ssh needs to be installed this makes a connection with a ssh server and keeps monitoring it for reconnection.
-I use keys for authentication these keys I coppied before.
+auto ssh needs to be installed this makes a connection with an ssh server and keeps monitoring it for reconnection.
+I use keys for authentication these keys I copied before.
 To make autossh work it needs to be running at bootup.
 I used rc-local to run it on bootup by using this code in /etc/systemd/system/rc-local.service
 
@@ -49,13 +49,13 @@ autossh -M $mp -fN -o "PubkeyAuthentication=yes" -o "StrictHostKeyChecking=false
 exit 0
 ```
 
-After setting up all of this I can ssh into the pi 4 without being connected to the same network trough the command and control server.
+After setting up all of this I can ssh into the pi 4 without being connected to the same network through the command and control server.
 
 ## Improvements
 I have attached a wireless USB adapter to have more range and wifi hacking possibilities.
 I also handmade a small ethernet cable to make it more convenient when dropping it and making it less bulky.
 There is an external battery to make it possible to drop in places where you can't use a wall socket.
-After some time with tinkering around with the autossh I tought it would be better to use a [reverse vpn](#reverse-vpn-gateway) that way I have full access over the machine not only ssh.
+After some time with tinkering around with the autossh, I thought it would be better to use a [reverse vpn](#reverse-vpn-gateway) that way I have full access over the machine not only ssh.
 This I will do in combination with the auto ssh to always have a backup if anything goes wrong with one of them.
 ![pi4 dropbox](images/dropboxpi4.jpg)
 
