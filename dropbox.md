@@ -20,10 +20,13 @@ This can be accomplished by a reverse ssh connection or a reverse vpn connection
 I already have kali linux for arm installed on my raspberry pi 4 but this is not enough for using it as a dropbox.
 To set this up you want it to be able to be dropped somewhere easy and fast and connect to it remotely after dropping it.
 
+I have attached a wireless usb adapter to have more range and wifi hacking possibilities.
+I also handmade a small ethernet cable to make it more convenient when dropping it and making it less bulky.
+There is a external battery to make it possible to drop in places where you can't use a wall socket.
 [pi4 dropbox](dropboxpi4.jpg)
 
 
-## Autossh
+### Autossh
 
 ## Improvements
 
