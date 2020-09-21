@@ -55,7 +55,7 @@ After setting up all of this I can ssh into the pi 4 without being connected to 
 I have attached a wireless USB adapter to have more range and wifi hacking possibilities.
 I also handmade a small ethernet cable to make it more convenient when dropping it and making it less bulky.
 There is an external battery to make it possible to drop in places where you can't use a wall socket.
-After some time with tinkering around with the autossh I tought it would be better to use a reverse vpn that way I have full access over the machine not only ssh.
+After some time with tinkering around with the autossh I tought it would be better to use a [reverse vpn](#Reverse-vpn-gateway) that way I have full access over the machine not only ssh.
 This I will do in combination with the auto ssh to always have a backup if anything goes wrong with one of them.
 ![pi4 dropbox](images/dropboxpi4.jpg)
 
