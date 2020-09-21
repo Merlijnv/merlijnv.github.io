@@ -24,3 +24,8 @@ I use Termius for the ssh connection and RealVNC for remote desktop control.
 This way I can use the raspberry pi without the need of struggling by connecting with a network every place I am.
 By using this I have a powerful hacking device on my MacBook Pro that I can also do some wifi hacking on by utilizing the raspberry pi 4 wifi chipset.
 ![Rasberry pi 4 usb c gadget](images/rpi4c.jpg)
+
+## Dropbox
+So I use my raspberry pi zero w and my raspberry pi 4 as a dropbox.
+But how do I get this to work, what improvements did I add and how do I use this dropbox.
+You can read more about this dropbox [here](dropbox).
