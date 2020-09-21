@@ -60,9 +60,19 @@ This I will do in combination with the auto ssh to always have a backup if anyth
 ![pi4 dropbox](images/dropboxpi4.jpg)
 
 ## P4wnp1
-
+The p4wnp1 is running a full set of kali linux it also has access to HID attacks.
+Because of this it is really interesting to make this toolkit remotely accessible.
+This way you have a small machine with all the potention without having to stay at a certain location
+You don't have much resources but that is not always needed.
+The only downsite is that without any adapters you only have wifi to access the internet.
+So you need to have the wifi password to use p4wnp1 as a dropbox.
 
 ### Reverse vpn gateway
 
 
 # Usages
+these dropboxes can be used for multiple things.
+- remotely have access to a pentest location.
+- remotely doing some wifi hacking without being noticed for being a long time in a place.
+- Getting access to a secured environment without staying there for too long.
+- in the case of p4wnp1 remotely executing HID attacks or keylogging.
