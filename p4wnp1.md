@@ -2,15 +2,15 @@
 # P4wnp1
 P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 
-
 ## Payloads
 For the payloads of the p4wnp1 you can check my (and Rick Theeuwes) [github repository](https://github.com/Riqky/Payloads).
 
 ## Lecture
-
+I am planning to do a lecture about p4wnp1 and the payloads I have made.
 
 ## Dropbox
-
+I have modified the p4wnp1 so that I can also use it as dropbox since it is a real small form factor.
+More information about how I modified the p4wnp1 to be a dropbox you can read [here](dropbox)
 
 ## Covert channel
 As an extra challenge I wanted to use covert shell to create a shell and interact with it even when the pc is not connnected to any internet connection.
