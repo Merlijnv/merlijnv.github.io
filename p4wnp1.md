@@ -10,7 +10,7 @@ I am planning to do a lecture about p4wnp1 and the payloads I have made.
 
 ## Dropbox
 I have modified the p4wnp1 so that I can also use it as dropbox since it is a real small form factor.
-More information about how I modified the p4wnp1 to be a dropbox you can read [here](dropbox)
+More information about how I modified the p4wnp1 to be a dropbox you can read [here](dropbox#p4wnp1)
 
 ## Covert channel
 As an extra challenge I wanted to use covert shell to create a shell and interact with it even when the pc is not connnected to any internet connection.
