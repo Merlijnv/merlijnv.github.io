@@ -68,6 +68,18 @@ The only downsite is that without any adapters you only have wifi to access the 
 So you need to have the wifi password to use p4wnp1 as a dropbox.
 
 ### Reverse vpn gateway
+Because we want full access to the p4wnp1 we can use a vpn server.
+But not only can we make our vpn server let us access our p4wnp1.
+We can also make it an reverse VPN Gateway and by doing that we can access the whole network the p4wnp1 is connected to.
+This reverse vpn gateway is also handy to use with my raspberry pi 4.
+
+I can do this by using the same command and control server.
+I will install openvpn on the server and after that configure the p4wnp1 to work as a reverse VPN gateway.
+
+When Openvpn is installed you can open the admin page most of the thing are already set up correctly.
+You have to add a user for your pentesting machine mine is called Merlijn and one for your dropbox mine is called dropbox.
+These two should have auto login permissions esspecially the dropbox.
+![openvpn users](images/users.png)
 
 
 # Usages
