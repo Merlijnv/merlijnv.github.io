@@ -21,4 +21,9 @@ For the password for the writeups check canvas.
 ## Fortress
 After having done multiple boxes with different difficulties I also wanted to try fortress as a challenge. This is a machine made by a company with multiple flags and not only user and root flags.
 
+## Challenges
+
+
+
+## Progress
 
