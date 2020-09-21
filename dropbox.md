@@ -81,6 +81,10 @@ You have to add a user for your pentesting machine mine is called Merlijn and on
 These two should have auto login permissions esspecially the dropbox.
 ![openvpn users](images/users.png)
 
+When both of the users are added you should go into more settings of dropbox and enable vpn gateway.
+Here you have to specify what network the gateway should work on I have set the most used network 192.168.1.1/24
+![openvpn gateway](images/gateway.png)
+
 
 # Usages
 these dropboxes can be used for multiple things.
