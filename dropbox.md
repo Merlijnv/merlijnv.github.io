@@ -23,7 +23,7 @@ To set this up you want it to be able to be dropped somewhere easy and fast and 
 I have attached a wireless usb adapter to have more range and wifi hacking possibilities.
 I also handmade a small ethernet cable to make it more convenient when dropping it and making it less bulky.
 There is a external battery to make it possible to drop in places where you can't use a wall socket.
-![pi4 dropbox](dropboxpi4.jpg)
+![pi4 dropbox](images/dropboxpi4.jpg)
 
 
 ### Autossh
