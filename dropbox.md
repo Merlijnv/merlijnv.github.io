@@ -55,36 +55,39 @@ After setting up all of this I can ssh into the pi 4 without being connected to 
 I have attached a wireless USB adapter to have more range and wifi hacking possibilities.
 I also handmade a small ethernet cable to make it more convenient when dropping it and making it less bulky.
 There is an external battery to make it possible to drop in places where you can't use a wall socket.
-After some time with tinkering around with the autossh, I thought it would be better to use a [reverse vpn](#reverse-vpn-gateway) that way I have full access over the machine not only ssh.
+After some time with tinkering around with the autossh, I thought it would be better to use a [reverse vpn](#reverse-VPN-gateway) that way I have full access over the machine not only ssh.
 This I will do in combination with the auto ssh to always have a backup if anything goes wrong with one of them.
 ![pi4 dropbox](images/dropboxpi4.jpg)
 
 ## P4wnp1
-The p4wnp1 is running a full set of kali linux it also has access to HID attacks.
-Because of this it is really interesting to make this toolkit remotely accessible.
-This way you have a small machine with all the potention without having to stay at a certain location
-You don't have much resources but that is not always needed.
-The only downsite is that without any adapters you only have wifi to access the internet.
+The p4wnp1 is running a full set of Kali Linux it also has access to HID attacks.
+Because of this, it is really interesting to make this toolkit remotely accessible.
+This way you have a small machine with all the potential without having to stay at a certain location
+You don't have many resources but that is not always needed.
+The only downside is that without any adapters you only have wifi to access the internet.
 So you need to have the wifi password to use p4wnp1 as a dropbox.
 
-### Reverse vpn gateway
-Because we want full access to the p4wnp1 we can use a vpn server.
-But not only can we make our vpn server let us access our p4wnp1.
-We can also make it an reverse VPN Gateway and by doing that we can access the whole network the p4wnp1 is connected to.
-This reverse vpn gateway is also handy to use with my raspberry pi 4.
+### Reverse VPN gateway
+Because we want full access to the p4wnp1 we can use a VPN server.
+But not only can we make our VPN server let us access our p4wnp1.
+We can also make it a reverse VPN Gateway and by doing that we can access the whole network the p4wnp1 is connected to.
+This reverse VPN gateway is also handy to use with my raspberry pi 4.
 
 I can do this by using the same command and control server.
-I will install openvpn on the server and after that configure the p4wnp1 to work as a reverse VPN gateway.
+I will install OpenVPN on the server and after that configure the p4wnp1 to work as a reverse VPN gateway.
 
-When Openvpn is installed you can open the admin page most of the thing are already set up correctly.
+When OpenVPN is installed you can open the admin page most of the things are already set up correctly.
 You have to add a user for your pentesting machine mine is called Merlijn and one for your dropbox mine is called dropbox.
-These two should have auto login permissions esspecially the dropbox.
+These two should have auto login permissions especially the dropbox.
 ![openvpn users](images/users.png)
 
-When both of the users are added you should go into more settings of dropbox and enable vpn gateway.
+When both of the users are added you should go into more settings of dropbox and enable VPN gateway.
 Here you have to specify what network the gateway should work on I have set the most used network 192.168.1.1/24
+this can later be changed or extended depending on your target.
 ![openvpn gateway](images/gateway.png)
 
+After setting this all up I can just connect to the OpenVPN server with my kali machine.
+When connected to the OpenVPN server I can now access the network my dropbox is connected to.
 
 # Usages
 these dropboxes can be used for multiple things.
