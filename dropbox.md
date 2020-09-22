@@ -88,6 +88,12 @@ this can later be changed or extended depending on your target.
 
 After setting this all up I can just connect to the OpenVPN server with my kali machine.
 When connected to the OpenVPN server I can now access the network my dropbox is connected to.
+Both the clients/ client and gateway are connected.
+![openvpn gateway](images/connected.png)
+
+
+TODO traceroute
+
 
 # Usages
 these dropboxes can be used for multiple things.
