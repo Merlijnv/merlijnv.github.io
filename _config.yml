@@ -5,4 +5,4 @@ description: Cyber Security Minor
 
 jekyll_get:
   data: hackthebox
-  json: 'https://18f.gsa.gov/hub/api/team/'
+  json: 'https://www.hackthebox.eu/api/users/identifier/${{ secrets.Identifier  }}?api_token=${{ secrets.ApiToken }}'
