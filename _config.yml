@@ -1,8 +1,3 @@
 theme: jekyll-theme-hacker
 title: Merlijn Vermeer
 description: Cyber Security Minor
-
-
-jekyll_get:
-  data: hackthebox
-  json: 'https://www.hackthebox.eu/api/users/identifier/${{ secrets.Identifier  }}?api_token=${{ secrets.ApiToken }}'
