@@ -34,5 +34,5 @@ I have begon this semester with no hackthebox experience I only created a accoun
 I have come in the top of Netherland user ranking of Hack the Box. I am currently nr 31/691 of and I am planning to get even higher.
 
 {% for data in site.data.hackthebox %}
-  Hello {{data[1].first_name}}
+  Hello {{data[1].user_name}}
 {% endfor %}
