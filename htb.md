@@ -26,9 +26,12 @@ After having done multiple boxes with different difficulties I also wanted to tr
 
 
 ## Progress
+![Machine Progress](images/machineprogress.png)
+![Challenge Progress](images/challengeprogress.png)
 
 ## Achievements
-
 I have begon this semester with no hackthebox experience I only created a account before but never did something with it (I already regret that). But since then I learned a lot of real life hacking scenarios and  how to tackle them. I have done alot of boxes easy hard and even insane I also tried fortress.
 
 I have come in the top of Netherland user ranking of Hack the Box. I am currently nr 31/691 of and I am planning to get even higher.
+I am rank 609 of the global ranking.
+![Ranking](images/ranking.png)
