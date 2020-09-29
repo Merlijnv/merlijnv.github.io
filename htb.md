@@ -26,8 +26,8 @@ After having done multiple boxes with different difficulties I also wanted to tr
 
 
 ## Progress
-![Machine Progress](images/machineprogress.png)
-![Challenge Progress](images/challengeprogress.png)
+![Machine Progress](images/machineprogress.png){: width="50%" style="float: left;"}
+![Challenge Progress](images/challengeprogress.png){: width="50%" style="float: right;"}
 
 ## Achievements
 I have begon this semester with no hackthebox experience I only created a account before but never did something with it (I already regret that). But since then I learned a lot of real life hacking scenarios and  how to tackle them. I have done alot of boxes easy hard and even insane I also tried fortress.
