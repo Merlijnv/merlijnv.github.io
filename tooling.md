@@ -20,7 +20,13 @@ The theme can give u alot of information. Like this extravagant example below.
 ![extravagant zsh](images/extravagant.png)
 
 I am using multiple plugins that are realy productive and useful:
-
+- dircycle
+- safe-paste
+- sudo
+- zsh-autosuggestions
+- zsh-syntax-highlighting
+- k
+- autojump
 
 
 ## P4wnp1
