@@ -4,7 +4,24 @@ Here I am going to talk about which tooling I used and how I set up / created my
 ## Kali
 For my main kali / hacking machine, I made a kali VM on my server at home using ESXi just so I can configure everything myself in the VM and therefore use more resources. Furthermore, when I'm working on p4wnp1/dropbox, I can easily create an endpoint for the reverse shell. I have my self-hosted wireguard server running so I always have access to my server, even at school. I also linked the wifi chip in my server to the kali VM so that I can use it for wifi hacking.
 
-In this environment, I have installed kali full op with another [gobuster](https://github.com/OJ/gobuster). this is a directory and DNS fuzzer that I prefer.
+### Extra tools
+In this environment, I have installed kali full. But I also installed some extra tools that are not included.
+- [gobuster](https://github.com/OJ/gobuster). this is a directory and DNS fuzzer that I prefer.
+- 
+
+### Terminal (ZSH)
+Instead of using bash as terminal I am using zsh.
+The Z shell is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements.
+As addition to ZSH I also installed [oh-my-zsh](https://ohmyz.sh/).
+This is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes.
+Those plugins and themes can be very usefull and productive.
+
+The theme can give u alot of information. Like this extravagant example below.
+![extravagant zsh](images/extravagant.png)
+
+I am using multiple plugins that are realy productive and useful:
+
+
 
 ## P4wnp1
 ![Rasberry pi 4 usb c gadget](images/p4wnp1case.png){: width="36%" style="float:right; margin-top: -20px"}
