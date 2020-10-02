@@ -20,13 +20,13 @@ The theme can give u alot of information. Like this extravagant example below.
 ![extravagant zsh](images/extravagant.png)
 
 I am using multiple plugins that are realy productive and useful:
-- dircycle
-- safe-paste
-- sudo
-- zsh-autosuggestions
-- zsh-syntax-highlighting
-- k
-- autojump
+- **dircycle** When using cd or any other command where you need to select a dir you can cycle trough all the dir's by using tab.
+- **safe-paste** When pasing a piece of code all enters will be ignored so that the code wont execute before you want it to.
+- **sudo** When u fuck up like everyones do and forget to type sudo before your last command or your current command you can press esc twice to get sudo in front of your command.
+- **zsh-autosuggestions** Does auto suggestion based on previously used commands.
+- **zsh-syntax-highlighting** Highlights know commands and makes them red if they are not known
+- **k** k is a zsh script / plugin to make directory listings more readable, adding a bit of color and some git status information on files and directories.
+- **autojump** a faster way to navigate your filesystem by just typing j with the dir name. It works by maintaining a database of the directories you use the most from the command line.
 
 
 ## P4wnp1
