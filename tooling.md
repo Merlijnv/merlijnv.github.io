@@ -30,6 +30,10 @@ I am using multiple plugins that are realy productive and useful:
 - **zsh-syntax-highlighting** Highlights know commands and makes them red if they are not known
 - **k** k is a zsh script / plugin to make directory listings more readable, adding a bit of color and some git status information on files and directories.
 - **autojump** a faster way to navigate your filesystem by just typing j with the dir name. It works by maintaining a database of the directories you use the most from the command line.
+![dircycle](images/dircycle.png)
+![syntax](images/syntax.png)
+![k](images/k.png)
+![autojump](images/jump.png)
 
 
 ## P4wnp1
