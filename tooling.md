@@ -31,9 +31,13 @@ I am using multiple plugins that are realy productive and useful:
 - **k** k is a zsh script / plugin to make directory listings more readable, adding a bit of color and some git status information on files and directories.
 - **autojump** a faster way to navigate your filesystem by just typing j with the dir name. It works by maintaining a database of the directories you use the most from the command line.
 ![dircycle](images/dircycle.png)
+*dircycle*
 ![syntax](images/syntax.png)
+*syntax highlighting*
 ![k](images/k.png)
+*k*
 ![autojump](images/jump.png)
+*autojump*
 
 
 ## P4wnp1
