@@ -31,13 +31,13 @@ I am using multiple plugins that are realy productive and useful:
 - **zsh-syntax-highlighting** Highlights know commands and makes them red if they are not known
 - **k** k is a zsh script / plugin to make directory listings more readable, adding a bit of color and some git status information on files and directories.
 - **autojump** a faster way to navigate your filesystem by just typing j with the dir name. It works by maintaining a database of the directories you use the most from the command line.
-![dircycle](images/dircycle.png){: width="100%"}
+![dircycle](images/dircycle.png){: width="100%" style="border: 3px solid #2f690a"}
 *dircycle*
-![syntax](images/syntax.png){: width="100%"}
+![syntax](images/syntax.png){: width="100%" style="border: 3px solid #2f690a"}
 *syntax highlighting*
-![k](images/k.png){: width="100%"}
+![k](images/k.png){: width="100%" style="border: 3px solid #2f690a"}
 *k*
-![autojump](images/jump.png){: width="100%"}
+![autojump](images/jump.png){: width="100%" style="border: 3px solid #2f690a"}
 *autojump*
 
 
