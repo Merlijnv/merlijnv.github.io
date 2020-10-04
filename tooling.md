@@ -22,6 +22,7 @@ The theme can give u alot of information. Like this extravagant example below.
 Mine doesn't look this extra vagant. I use the [Powerlevel10K theme](https://github.com/romkatv/powerlevel10k). When using things like a git repository I will see info about the repository in that folder with unstaged changes and not pushed commits. This is realy helpful and also works for other things like python.
 ![terminal theme](images/terminaltheme.png)
 
+#### Plugins
 I am using multiple plugins that are realy productive and useful:
 - **dircycle** When using cd or any other command where you need to select a dir you can cycle trough all the dir's by using tab.
 - **safe-paste** When pasing a piece of code all enters will be ignored so that the code wont execute before you want it to.
