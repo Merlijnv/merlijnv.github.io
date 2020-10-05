@@ -16,6 +16,7 @@ For my main kali / hacking machine, I made a kali VM on my server at home using 
 ### Extra tools
 In this environment, I have installed kali full. But I also installed some extra tools that are not included.
 - [gobuster](https://github.com/OJ/gobuster). this is a directory and DNS fuzzer that I prefer.
+- [evil-winrm](https://github.com/Hackplayers/evil-winrm). The ultimate Windows Remote Management shell for hacking/pentesting
 - 
 
 ### Terminal (ZSH)
