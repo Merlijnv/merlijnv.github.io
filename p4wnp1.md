@@ -21,3 +21,8 @@ I made a script that runs a covert shell by connecting the pc to the p4wnp1 this
 ![p4wnp1 result](images/p4wnp1result.jpg){: width="36%" float="right"}
 
 This covert channel can be used to make a persistent shell without anyone detecting.
+
+## Rubber ducky
+All the payloads created on p4wnp1 can be converted to ducky script.
+The Rubber ducky is a HID attack device that looks like a normal usb.
+![rubber ducky](images/rubberducky.jpg)

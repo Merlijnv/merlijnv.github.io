@@ -75,3 +75,5 @@ By using this I have a powerful hacking device on my MacBook Pro that I can also
 So I use my raspberry pi zero w and my raspberry pi 4 as a dropbox.
 But how do I get this to work, what improvements did I add and how do I use this dropbox.
 You can read more about this dropbox [here](dropbox).
+
+## Packet Squirrel
