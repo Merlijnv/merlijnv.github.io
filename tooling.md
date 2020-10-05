@@ -1,6 +1,15 @@
 # Tooling
 Here I am going to talk about which tooling I used and how I set up / created my hacking environments and tools.
 
+- [Kali](#kali)
+  * [Extra tools](#extra-tools)
+  * [Terminal (ZSH)](#terminal--zsh-)
+    + [Plugins](#plugins)
+- [P4wnp1](#p4wnp1)
+- [Raspberry pi 4](#raspberry-pi-4)
+- [Dropbox](#dropbox)
+
+
 ## Kali
 For my main kali / hacking machine, I made a kali VM on my server at home using ESXi just so I can configure everything myself in the VM and therefore use more resources. Furthermore, when I'm working on p4wnp1/dropbox, I can easily create an endpoint for the reverse shell. I have my self-hosted wireguard server running so I always have access to my server, even at school. I also linked the wifi chip in my server to the kali VM so that I can use it for wifi hacking.
 
