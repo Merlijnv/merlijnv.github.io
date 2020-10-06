@@ -23,7 +23,7 @@ I also made some writeups that describes the exploit more in depth.
 
 ![Linux machine writeup](images/openkeys.png){: width="50%" style="float: left;"}
 
-![Windows machine writeup](images/dyplesher.png){: width="50%" style="float: right;margin-bottom: 50px;"}
+![Windows machine writeup](images/dyplesher.png){: width="50%" style="float: right;padding-bottom: 44px;background-color: #0b0d0f;"}
 
 
 For the password for the writeups check canvas.
