@@ -20,6 +20,9 @@ I made a script that runs a covert shell by connecting the pc to the p4wnp1 this
 ![Covert channel shell](images/covertshell.png){: width="63%" float="left"}
 ![p4wnp1 result](images/p4wnp1result.jpg){: width="36%" float="right"}
 
+The covert channel looks for wireless adapater (does not matter if connected or not) and uses it to communicate with the p4wnp1 in a covert matter.
+[*source covert channel*](https://p4wnp1.readthedocs.io/en/latest/Payload-Subfolder/Wifi-Covert-Channel/)
+
 This covert channel can be used to make a persistent shell without anyone detecting.
 
 ## Rubber ducky
