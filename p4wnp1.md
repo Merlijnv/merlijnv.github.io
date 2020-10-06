@@ -5,6 +5,13 @@ P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into 
 ## Payloads
 For the payloads of the p4wnp1 you can check my (and Rick Theeuwes) [github repository](https://github.com/Riqky/Payloads).
 
+## Hardware manipulation
+One great thing about p4wnp1 is that u can manipulate it to send different manufacture id's, product id's and product names.
+This way when a company secured their systems to only accept certain keyboard you can change this value and be able to still run a HID attack.
+You can search for the correct id's on [devide hunt](https://devicehunt.com/all-usb-vendors).
+After that just change it in usb settings on the p4wnp1.
+![Hardware manipulation](images/hardware.png)
+
 ## Lecture
 I am planning to do a lecture about p4wnp1 and the payloads I have made.
 
