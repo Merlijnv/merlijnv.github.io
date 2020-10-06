@@ -10,3 +10,7 @@ at the beginning of this semester, we had a number of projects to choose from to
 
 To get a better picture of the impact of this project, I first made my own ethical analysis. I did this via the TICT tool from fontys. I looked at the Impact of this project on the users, how people can misuse it and at any unintended side effects. This includes the impact on the environment, but also the prejudices that may be part of the project. the full analysis can be found [here](../pdf/TICT.pdf).
 
+# Table of content
+- [Research](/research.md)
+- [Peer Review](/peerreview.md)
+- [My contribution](/contribution.md)
