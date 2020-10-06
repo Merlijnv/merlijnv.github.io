@@ -16,6 +16,16 @@ I have made some writeups of hackthebox (Linux and Windows).
 
 ![Windows machine writeup](images/buff.png){: width="50%" style="float: right;"}
 
+I also made some writeups that describes the exploit more in depth.
+## [openkeys writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbopenkeys.pdf){: style="float: left; width: 50%"}
+
+## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbdyplesher.pdf){: style="float: right; width: 50%;"}
+
+![Linux machine writeup](images/openkeys.png){: width="50%" style="float: left;"}
+
+![Windows machine writeup](images/dyplesher.png){: width="50%" style="float: right;"}
+
+
 For the password for the writeups check canvas.
 
 TODO openkeys writeup and dyplesher writeup with extra explanation.
