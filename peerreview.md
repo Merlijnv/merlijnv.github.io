@@ -1,6 +1,6 @@
 # peer reviews
 
-at the end of each sprint, we look back as a group on the performance of our members. on this page I am going to show the feedback of my fellow students per sprint and write a short article about it.
+At the end of each sprint, we look back as a group on the performance of our members. on this page I am going to show the feedback of my fellow students per sprint and write a short article about it.
 
 ## sprint 0
 
