@@ -30,9 +30,9 @@ Those plugins and themes can be very usefull and productive.
 The theme can give u alot of information. Like this extravagant example below.
 ![extravagant zsh](images/extravagant.png)
 
-Mine doesn't look this extra vagant. I use the [Powerlevel10K theme](https://github.com/romkatv/powerlevel10k). When using things like a git repository I will see info about the repository in that folder with unstaged changes and not pushed commits. This is realy helpful and also works for other things like python.
+Mine doesn't look this extra vagant. I use the [Powerlevel10K theme](https://github.com/romkatv/powerlevel10k). When using things like a git repository I will see info about the repository in that folder with unstaged changes and not pushed commits. This is realy helpful and also works for other things like python. I can also add my vpn ip to this when connected to vpn like htb.
 ![terminal theme](images/terminaltheme.png)
-
+![vpn ip](images/vpnip.png)
 
 #### Plugins
 I am using multiple plugins that are realy productive and useful:
