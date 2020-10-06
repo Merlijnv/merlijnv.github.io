@@ -8,6 +8,7 @@ Here I am going to talk about which tooling I used and how I set up / created my
 - [P4wnp1](#p4wnp1)
 - [Raspberry pi 4](#raspberry-pi-4)
 - [Dropbox](#dropbox)
+- [Packet Squirrel](#packet-squirrel)
 
 
 ## Kali
