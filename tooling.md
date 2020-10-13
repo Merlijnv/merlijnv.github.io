@@ -85,7 +85,7 @@ The Packet Squirrel by Hak5 is a stealthy pocket-sized man-in-the-middle. This E
 Because I am the ICT guy at our scouting I was interested how secure our network is. We have a camera system that is connected to the network. I wanted to try if I could capture the camera packets of those camera's without anyone noticing it.
 
 I got the Packet Squirrel connected it to one of the ethernet cables and added one cable where the cable was previously put in. I connected a usb thumb drive to the Packet Squirrel to save all the loot to.
-![PacketSquirrel](images/packetsquirrel.png)
+![PacketSquirrel](images/packetsquirrel.jpg)
 
 At first I wanted to try to capture the rtsp packages but because we just got a new network the camera system couldn't connect to their static ip because we got now ip ranges.
 Because of this I did get a tcpdump of the security camera system requesting it's static ip.
