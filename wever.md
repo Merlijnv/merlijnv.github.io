@@ -22,7 +22,12 @@ The campaigns can be planned and you get a clear overview of all the results.
 
 
 ### Landing Page
-
+For the landing page we looked for a portal or something of dewever quickly we found a employee portal which is perfect.
+We just imported the portal using the url and when we use it in our campaign you don't see anything.
+But notice the dewever.ml at the top which could be seen by the victim.
+We also added a free generated ssl certificate which is making the portal more trustworthy.
+When people fill in their info and click aanmelden they will be redirected to the real login page.
+And we will get that info without password in our campaign.
 ![Landing page fake](images/landingpage.png)
 
 ### SMTP Server
