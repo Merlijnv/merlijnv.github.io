@@ -23,6 +23,7 @@ The campaigns can be planned and you get a clear overview of all the results.
 
 ### Landing Page
 
+![Landing page fake](images/landingpage.png)
 
 ### SMTP Server
 
