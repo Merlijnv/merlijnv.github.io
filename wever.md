@@ -8,8 +8,8 @@ We got in contact with De Wever and had a conversation on what we could pentest.
 We have set up a testplan got some feedback from the client and after that finalized it.
 
 ## Phisingtest
-We hebben dus de opdracht om een phising test te doen op de wever. Eerst was de scope hiervoor de hele organtisatie maar vanwege de lastige tijd met corona hebben we gekozen om 50% hiervan te doen.
-De phising test heeft als insteek een password reset waarbij ze naar hun "eigen portal" worden gestuurd en daar moeten inloggen.
+We got the objective to do a phising test on de Wever. At first the scope for this test was the full organisation but because of the difucult times because of corona we have decided to do 50% of the organisation.
+The phising test has as idea a password reset where the get send to their "own portal" where they have to login to reset their password.
 
 ### GoPhish
 As Phsing framework we have chosen for gophish.
@@ -19,7 +19,7 @@ The campaigns can be planned and you get a clear overview of all the results.
 ![Go Phish](images/gophish.png)
 
 ### Mail
-
+The mail still needs some working on it.
 
 ### Landing Page
 For the landing page we looked for a portal or something of dewever quickly we found a employee portal which is perfect.
@@ -31,12 +31,15 @@ And we will get that info without password in our campaign.
 ![Landing page fake](images/landingpage.png)
 
 ### SMTP Server
-
+As smtp server we first tried to use postfix this worked but some of the emails went into spam. This was mostly on office 365 outlook which de wever is also using.
+To fix this we tried to get a real smtp server. We have used mailgun for a project we did last semester and know this could be a great solution.
+We added the needed dns records and configured the smtp.
+This way as far as we know for now all the emails ended up in the inbox instead of spam.
+We can send 20K emails which is more then enough.
+![mailgun](images/mailgun.png)
 
 ### Findings
-
-
+Findings will be shared after the campaign in november/december.
 
 ## External application
-
 The external application we are still waiting for approval.
