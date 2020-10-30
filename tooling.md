@@ -9,6 +9,7 @@ Here I am going to talk about which tooling I used and how I set up / created my
 - [Raspberry pi 4](#raspberry-pi-4)
 - [Dropbox](#dropbox)
 - [Packet Squirrel](#packet-squirrel)
+- [Wifi Pineapple](#wifi-pineapple)
 
 
 ## Kali
@@ -91,3 +92,25 @@ I got the Packet Squirrel connected it to one of the ethernet cables and added o
 At first I wanted to try to capture the rtsp packages but because we just got a new network the camera system couldn't connect to their static ip because we got now ip ranges.
 Because of this I did get a tcpdump of the security camera system requesting it's static ip.
 ![Static IP TCP Dump](images/statictcpdump.png)
+
+I will do some more testing at scouting
+
+## Wifi Pineapple
+The Pineapple Tetra is a so-called Rogue AccessPoint or a tool that hackers and penetration testers use to check the WiFi network. The Pineapple Tetra can be used for various purposes such as:
+- Reconnaissance
+- Man-in-the-Middle
+- Tracking
+- Logging
+- Report
+- …and much more
+
+I have done some work with the pineapple a couple semesters in advance but that was mainly looking what it was and what it could do but not advanced trying out of those features.
+
+### C2
+I used the cloud c2 environment I have set up earlier for the packet squirrel but this time I moved it to a digital ocean vps.
+This way I can use the wifi pineapple and access it's features even offsite.
+![cloud c2 wifi pineapple](images/c2pineapple.png)
+
+### Goal
+
+
