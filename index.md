@@ -39,6 +39,8 @@ I think for technical skills I am on the advanced level. I have done all the nee
 Besides the needed activities and outcomes I also added some activities and challenges like my personal project [P4wnP1](p4wnp1) and my work on my [secure lab environment at home](lab)
 But I have also helped multiple of my teammates with the work they did not understand yet and helped them fix the issues they were having. For confirmation Thomas van Heel and Joël Adams can be asked.
 
+<hr>
+
 {:.loh}
 ### Learning outcome 2: Security Specialist
 You show that you are a  security specialist with the required technical and procedural skills.
@@ -55,6 +57,8 @@ Technical Red teaming skills are related to (IT) security technical skills, such
 ### Grade explanation (Technical skills)
 I have done a lot of work on expanding my red teaming technical skills. I have learned a lot of hacking techniques from [Hack the Box](htb) where I also learned how to target different platforms(Windows, Linux, OpenBSD), physical security aspects and offensive hardwared from using: P4wnp1, wifi pineapple, rubber ducky, packet squirrel and dropbox which I described in [P4wnP1](p4wnp1) and [Tooling](tooling). I also did IoT security testing described in [R&D Project](project).
 
+<hr>
+
 Procedural red teaming skills are related to working in a structured way and reporting activity and results.
 Working in a structured way: using proven (real world) methods/phases to perform pentests and red teaming operations, planning activities by considering efficiency combined with risk of damage and exposure. Working with written consent, ethically,  and in close cooperation with white team to prevent accidents.
 Reporting activity and results:  written report to client/blue team/development (accompanied with a presentation), registering performed red teaming activity (was it a red teamer or a malicious actor?), documenting security tests (secure code review report, what is and isn't tested). Written responsible disclosure and PoCs. Knowledge sharing with peers in the field (informal, online, conferences). 
@@ -62,6 +66,8 @@ Reporting activity and results:  written report to client/blue team/development 
 {:.geh}
 ### Grade explanation (Procedural skills)
 
+
+<hr>
 
 {:.loh}
 ### Learning outcome 3: Research and development skills
@@ -78,9 +84,13 @@ In a complex innovation oriented project setting, you show a methodical approach
 ### Grade explanation (Technical R&D project skills)
 { grade explanation }
 
+<hr>
+
 {:.geh}
 ### Grade explanation (Methodical R&D project process)
 { grade explanation }
+
+<hr>
 
 {:.geh}
 ### Grade explanation (Collaboration and Communication skills)
