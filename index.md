@@ -34,7 +34,7 @@ You show that you can plan, manage and evaluate your personal development and le
 ### Grade explanation (Personal Development)
 { grade explanation }
 
-Learning outcome 2: Security Specialist
+### Learning outcome 2: Security Specialist
 You show that you are a  security specialist with the required technical and procedural skills.
 
 {:.lo2}
@@ -49,7 +49,7 @@ You show that you are a  security specialist with the required technical and pro
 ### Grade explanation (Procedural skills)
 { grade explanation }
 
-Learning outcome 3: Research and development skills
+### Learning outcome 3: Research and development skills
 In a complex innovation oriented project setting, you show a methodical approach to research and development, technical R&D skills, and project collaboration and communication skills.
 
 {:.lo3}
