@@ -23,7 +23,7 @@
 </div>
 
 
-Learning outcome 1: Personal development
+### Learning outcome 1: Personal development
 You show that you can plan, manage and evaluate your personal development and learning.
 
 {:.lo1}
@@ -31,6 +31,7 @@ You show that you can plan, manage and evaluate your personal development and le
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |   Personal Development   You are working on a clear and meaningful personalized learning plan.      |   You have completed and evaluated your personal learning plan,  activities and outcomes, and you show to help, inform and assist others,  with positive feedback from teachers, students and externals.      |   You have completed and evaluated your personal learning plan,  activities and outcomes, and the teacher(s) has/have confirmed this by  providing positive feedback.      |   You have an approvedpersonalized learning plan and in your portfolio  you demonstrate and evaluate the first learning activities and outcomes.      |   You have a global or basic learning plan but you can personalize or  detail it more, or you can explain and evaluate the learning  activitiesand outcomes better.      |   Your portfolio does not show for a personal learning plan, or the demonstration is not clear enough for the teachers.     |
 
+#### Grade explanation (Personal Development)
 { grade explanation }
 
 Learning outcome 2: Security Specialist
