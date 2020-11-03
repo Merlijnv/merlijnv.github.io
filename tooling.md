@@ -113,4 +113,4 @@ This way I can use the wifi pineapple and access it's features even offsite.
 
 ### Goal
 
-
+I want to setup a captive portal and see how many people will use it.
