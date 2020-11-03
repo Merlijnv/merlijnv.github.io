@@ -1,7 +1,7 @@
 # Cyber Security
 ## Merlijn Vermeer
 
-<div class="flex">
+<div class="flex" style="margin-bottom: 20px">
     <div class="card" onclick="location.href='{{site.baseurl}}/learningplan';">
         <img src="images/learningplan.png" alt="Learning plan" style="width:100%">
         <div class="container">
@@ -31,7 +31,7 @@ You show that you can plan, manage and evaluate your personal development and le
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |   Personal Development   You are working on a clear and meaningful personalized learning plan.      |   You have completed and evaluated your personal learning plan,  activities and outcomes, and you show to help, inform and assist others,  with positive feedback from teachers, students and externals.      |   You have completed and evaluated your personal learning plan,  activities and outcomes, and the teacher(s) has/have confirmed this by  providing positive feedback.      |   You have an approvedpersonalized learning plan and in your portfolio  you demonstrate and evaluate the first learning activities and outcomes.      |   You have a global or basic learning plan but you can personalize or  detail it more, or you can explain and evaluate the learning  activitiesand outcomes better.      |   Your portfolio does not show for a personal learning plan, or the demonstration is not clear enough for the teachers.     |
 
-#### Grade explanation (Personal Development)
+### Grade explanation (Personal Development)
 { grade explanation }
 
 Learning outcome 2: Security Specialist
@@ -43,7 +43,10 @@ You show that you are a  security specialist with the required technical and pro
 |   Technical skills as a security specialist   |   Your portfolio shows that you are a technical security expert with  complete and in-depth knowledge and skills, and that you can help,  inform and assist others.                          |   Your portfolioshows  that you can perform the main  technical specialist tasks in a skilled manner and the teacher has  confirmed this by providing positive feedback.                                   |   Your portfolio shows first technical learningactivities and products  as a security specialist. Teacher feedback shows that the quality of  your skills is satisfactory.                  |   You have started developing your technical security skills, but not  produced and evaluated any completed learning activities yet.                                    |   Your portfolio does not yet demonstrate any progression as a  technical security specialist, or the demonstration is not clear enough  for the teachers.                                   |
 |   Procedural skills as a security specialist  |   Your portfolio shows that you have demonstrated AND IMPROVED security  procedures and reporting products for the chosen specialism. Teachers  have confirmed this with positive feedback.  |   In your portfolio you demonstrateand evaluate the main procedural best-practices and reporting productsof a security specialist, and the teacher has confirmed this by providing positive feedback.      |   Your portfolio shows your first procedural activities and reporting  products as a security specialist. Teacher feedback shows that the  quality of your skills is satisfactory.          |   You have started developing your procedural and reporting skills as a security specialist, but not produced and evaluated any completed learning activities yet.      |   Your portfolio does not yet demonstrate any progress on the  procedural and reporting side of being a security specialist, or the  demonstration is not clear enough for the teachers.     |
 
+### Grade explanation (Technical skills)
+{ grade explanation }
 
+### Grade explanation (Procedural skills)
 { grade explanation }
 
 Learning outcome 3: Research and development skills
@@ -56,5 +59,11 @@ In a complex innovation oriented project setting, you show a methodical approach
 |   Methodical R&D project process          |   You have demonstrated and validated, but also took the lead in a  methodical approach to research and development activities, and you have  informed, helped and assisted others, with positive feedback from  students, teachers, and externals.                                      |   You have demonstrated and validated a methodical approach to research  and development activities (research approach, analysis, design,  implementing ánd testing) in a project and the teacher(s) has/have  confirmed this by providing positive feedback.                |   Your portfolio shows that you have selected methodical R&D  approaches and that and how you are working on R&D project tasks in a  methodical manner.                                                                                                                     |   Your portfolio shows that you have selected methodical research and  development approaches (for research approach, analysis, design,  implementing ánd testing), but you have not completed and verified the  project results yet.      |   Your portfolio does not yet demonstrate how you can perform the  research and development activities in the project in a methodical  manner. or the demonstration is not clear enough for the teachers.      |
 |   Collaboration and Communication skills  |   Your portfolio demonstrates that you independently set up and  performed internal and external project management, and written and oral  communication, with evaluation and reflection and positive feedback  from the project client, the teacher(s) and your project group members.  |   Your portfolio demonstrates how you collaborated within the project  team and with stakeholders, ánd how you worked on communication  activities and products, with evaluation and reflection, and positive  feedback from the teacher(s) and your project group members.  |   Your portfolio demonstrates how you collaborated within the project  team, and how you are working on any communication activities and  products. Some activities are completed and the results evaluated and  reflected on, with positive feedback from the teacher(s).  |   Your portfolio shows how you are collaborating within the project  team, and/or communication activities and products that you are working  on, but you have not completed and evaluated them yet.                                       |   Your portfolio does not demonstrate and evaluate project  management/collaboration activities or communication products, or the  demonstration is not clear enough for the teachers.                         |
 
+### Grade explanation (Technical R&D project skills)
+{ grade explanation }
 
+### Grade explanation (Methodical R&D project process)
+{ grade explanation }
+
+### Grade explanation (Collaboration and Communication skills)
 { grade explanation }
