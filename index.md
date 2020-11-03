@@ -65,7 +65,7 @@ Reporting activity and results:  written report to client/blue team/development 
 
 {:.geh}
 ### Grade explanation (Procedural skills)
-
+For Procedural skills I think I am at proficient. I have done writeups of boxes in [Hack the Box](htb). I also have done a pentest where I will have done a phising test at a company where we comminicated a test plan and written consent which are described in [Wever](wever). I also done a written report for the [Red vs Blue team events](redvsblue). I have done some knowledge sharing by helping others with making the Red vs Blue team pentest report. I could improve this by making a secure code review report for maybe the R&D Project.
 
 <hr>
 
@@ -82,16 +82,18 @@ In a complex innovation oriented project setting, you show a methodical approach
 
 {:.geh}
 ### Grade explanation (Technical R&D project skills)
-{ grade explanation }
+I think my Technical R&D project skills is at beginning, at this moment I have not yet described enough of our work that it's enough to confirm this learning outcome.
+I will expand this in the comming weeks.
 
 <hr>
 
 {:.geh}
 ### Grade explanation (Methodical R&D project process)
-{ grade explanation }
+I think my Methodical R&D project process is at beginning at this moment I have not yet described enough of our research that it's enough to confirm this learning outcome.
+I will expand this in the comming weeks.
 
 <hr>
 
 {:.geh}
 ### Grade explanation (Collaboration and Communication skills)
-{ grade explanation }
+I think I have my R&D Collaboration and Communication skills at proficiēnt. I am the project leader of the project and do the communication with Teade Punter. I have got good [feedback](peerreview) from my peer's and think we have a good collaboration and communication in the R&D project. I also do most of the talks with the stakeholders.
