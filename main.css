@@ -159,3 +159,7 @@ li strong {
 .lo3 tr:nth-child(3) td:nth-child(3){
   background-color: #b5e85387;
 }
+
+.loh {
+  margin-top: 20px;
+}
