@@ -148,9 +148,14 @@ li strong {
   background-color: #b5e85387;
 }
 
-.lo3 tr:nth-child(3) td:nth-child(3){
+.lo3 tr:nth-child(1) td:nth-child(3){
   background-color: #b5e85387;
 }
+
+.lo3 tr:nth-child(2) td:nth-child(3){
+  background-color: #b5e85387;
+}
+
 .lo3 tr:nth-child(3) td:nth-child(3){
   background-color: #b5e85387;
 }
