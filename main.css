@@ -161,5 +161,10 @@ li strong {
 }
 
 .loh {
-  margin-top: 20px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.geh {
+  margin-bottom: 0;
 }
