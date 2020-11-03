@@ -136,11 +136,11 @@ li strong {
   color: #2f690a;
 }
 
-.lo1 tr:nth-child(1) td:nth-child(3) {
+.lo1 tr:nth-child(1) td:nth-child(2) {
   background-color: #b5e85387;
 }
 
-.lo2 tr:nth-child(1) td:nth-child(3) {
+.lo2 tr:nth-child(1) td:nth-child(2) {
   background-color: #b5e85387;
 }
 
