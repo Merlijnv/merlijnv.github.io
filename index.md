@@ -31,9 +31,13 @@ You show that you can plan, manage and evaluate your personal development and le
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |   Personal Development   You are working on a clear and meaningful personalized learning plan.      |   You have completed and evaluated your personal learning plan,  activities and outcomes, and you show to help, inform and assist others,  with positive feedback from teachers, students and externals.      |   You have completed and evaluated your personal learning plan,  activities and outcomes, and the teacher(s) has/have confirmed this by  providing positive feedback.      |   You have an approvedpersonalized learning plan and in your portfolio  you demonstrate and evaluate the first learning activities and outcomes.      |   You have a global or basic learning plan but you can personalize or  detail it more, or you can explain and evaluate the learning  activitiesand outcomes better.      |   Your portfolio does not show for a personal learning plan, or the demonstration is not clear enough for the teachers.     |
 
+
+
 {:.geh}
 ### Grade explanation (Personal Development)
-{ grade explanation }
+I think for technical skills I am on the advanced level. I have done all the needed activities and challenges which can be seen at [results](results).
+Besides the needed activities and outcomes I also added some activities and challenges like my personal project [P4wnP1](p4wnp1) and my work on my [secure lab environment at home](lab)
+But I have also helped multiple of my teammates with the work they did not understand yet and helped them fix the issues they were having. For confirmation Thomas van Heel and Joël Adams can be asked.
 
 {:.loh}
 ### Learning outcome 2: Security Specialist
@@ -45,13 +49,19 @@ You show that you are a  security specialist with the required technical and pro
 |   Technical skills as a security specialist   |   Your portfolio shows that you are a technical security expert with  complete and in-depth knowledge and skills, and that you can help,  inform and assist others.                          |   Your portfolioshows  that you can perform the main  technical specialist tasks in a skilled manner and the teacher has  confirmed this by providing positive feedback.                                   |   Your portfolio shows first technical learningactivities and products  as a security specialist. Teacher feedback shows that the quality of  your skills is satisfactory.                  |   You have started developing your technical security skills, but not  produced and evaluated any completed learning activities yet.                                    |   Your portfolio does not yet demonstrate any progression as a  technical security specialist, or the demonstration is not clear enough  for the teachers.                                   |
 |   Procedural skills as a security specialist  |   Your portfolio shows that you have demonstrated AND IMPROVED security  procedures and reporting products for the chosen specialism. Teachers  have confirmed this with positive feedback.  |   In your portfolio you demonstrateand evaluate the main procedural best-practices and reporting productsof a security specialist, and the teacher has confirmed this by providing positive feedback.      |   Your portfolio shows your first procedural activities and reporting  products as a security specialist. Teacher feedback shows that the  quality of your skills is satisfactory.          |   You have started developing your procedural and reporting skills as a security specialist, but not produced and evaluated any completed learning activities yet.      |   Your portfolio does not yet demonstrate any progress on the  procedural and reporting side of being a security specialist, or the  demonstration is not clear enough for the teachers.     |
 
+Technical Red teaming skills are related to (IT) security technical skills, such as (but not limited to): hacking techniques (scripting, enumeration, privesc, pivoting, covert channels, exploitation, cracking, ...), physical security (locks, physical access tokens), offensive hardware (rubber ducky, dropbox, etc.), different target platforms (IoT, OT, mobile, ..) and environments (Windows, Linux, Android, ...).
+
 {:.geh}
 ### Grade explanation (Technical skills)
-{ grade explanation }
+I have done a lot of work on expanding my red teaming technical skills. I have learned a lot of hacking techniques from [Hack the Box](htb) where I also learned how to target different platforms(Windows, Linux, OpenBSD), physical security aspects and offensive hardwared from using: P4wnp1, wifi pineapple, rubber ducky, packet squirrel and dropbox which I described in [P4wnP1](p4wnp1) and [Tooling](tooling). I also did IoT security testing described in [R&D Project](project).
+
+Procedural red teaming skills are related to working in a structured way and reporting activity and results.
+Working in a structured way: using proven (real world) methods/phases to perform pentests and red teaming operations, planning activities by considering efficiency combined with risk of damage and exposure. Working with written consent, ethically,  and in close cooperation with white team to prevent accidents.
+Reporting activity and results:  written report to client/blue team/development (accompanied with a presentation), registering performed red teaming activity (was it a red teamer or a malicious actor?), documenting security tests (secure code review report, what is and isn't tested). Written responsible disclosure and PoCs. Knowledge sharing with peers in the field (informal, online, conferences). 
 
 {:.geh}
 ### Grade explanation (Procedural skills)
-{ grade explanation }
+
 
 {:.loh}
 ### Learning outcome 3: Research and development skills
