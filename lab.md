@@ -25,6 +25,7 @@ So I wanted to use wireguard on my firewall.
 I found packages to install this on pfSense.
 
 But after trying to get it to work which failed I found OPNSense which included wireguard and also has some other nice extra features.
+
 ![not running service](images/wgnotworking.png)
 
 ### OPNSense
@@ -46,3 +47,38 @@ I tried to communicate with the kali that was running inside the firewall lan ne
 I have a connection and it also shows up in the interfaces.
 ![wg working](images/wgconnection.png)
 ![wg interfaces](images/wginterfaces.png)
+
+## Configuration control and backup
+
+Because I don't want to lose my changes when something goes wrong and also track what I am changing I wanted to use github to manage my configuration.
+OPNsense has a plugin to get this to work. I installed it generated a ssh key for this use and added it to my github.
+After setting up the repo and adding all the credentials it worked! the whole config is saved in 1 .xml file
+![backup succesful](images/backup.png)
+
+And offcourse after working in this sometime I had to change the theme to dark mode.
+![dark mode](images/darkmode.png)
+
+## Intrusion detection
+Because this will be a set of servers accessible from the outside I want to have a intrusion detection system.
+OPNsense has multiple plugins for differnt rule sets like: Proofpoint ET Pro ruleset, PT Research ruleset, IDS Snort VRT ruleset.
+So I had to do some research on those rulesets which will be a good one for my scenario.
+After some searching I registered for ET Pro ruleset and installed it.
+After installing it and enabeling it I needed to restart and it works.
+Immediatly having some blocks which arent really harmfull but not needed from spotify.
+![ips block](images/ipsblock.png)
+
+I will later on see if I can expand this intrusion detection by some of my own rules.
+
+## HAproxy
+because I use my lab inviroment sometimes for multiple servers I need to have some kind of loadbalancing/reverse proxy for when I want to use multiple servers on http or https.
+I have in the past tried both HAproxy and nginx and I am going to use Haproxy as a solution to this.
+OPNsense has a plugin for HAproxy so the setup isn't that hard.
+
+## Acme
+One of the great advantages to having a firewall with HAproxy is that you can centeralize your certificate generation and usage.
+On all my servers that I open up to the outside I want to be able to add a valid certificate.
+I can do this by using letsencrypt and acme.
+But before I set this up for my servers and HAproxy I want to set it up for the firewall itself.
+But I only will generate the certificate and install it but I wont enable access to the firewall from outside of the network.
+
+
