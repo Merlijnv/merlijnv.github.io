@@ -13,3 +13,9 @@ I have also been working on p4wnp1 about this I gave a lecture at red teaming. I
 
 ## [P4wnp1](p4wnp1)
 I have a raspberry pi zero w where I 3d printed a case for and on which I run [P4wnp1 aloa](https://github.com/RoganDawes/P4wnP1_aloa) so I can use it as a hid hacking tool but also as a dropbox. I have written several payloads for this. I also have an explanation of how I made the P4wnp1 function as a dropbox.
+
+## [Lab](lab)
+I have a homelab at home where I run my virual machines such as my development server.
+Before this semester this was running a setup where all the severs where accessible from my home network devices and vice versa.
+But this isn't really secure because when a hacker can compromise one of my servers they have full access to my home network.
+I wanted to fix this.
