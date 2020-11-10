@@ -52,7 +52,8 @@ I have a connection and it also shows up in the interfaces.
 
 Because I don't want to lose my changes when something goes wrong and also track what I am changing I wanted to use github to manage my configuration.
 OPNsense has a plugin to get this to work. I installed it generated a ssh key for this use and added it to my github.
-After setting up the repo and adding all the credentials it worked! the whole config is saved in 1 .xml file
+After setting up the repo and adding all the credentials it worked! the whole config is saved in 1 .xml file.
+
 ![backup succesful](images/backup.png)
 
 And offcourse after working in this sometime I had to change the theme to dark mode.
