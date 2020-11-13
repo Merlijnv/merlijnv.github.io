@@ -75,11 +75,29 @@ because I use my lab inviroment sometimes for multiple servers I need to have so
 I have in the past tried both HAproxy and nginx and I am going to use Haproxy as a solution to this.
 OPNsense has a plugin for HAproxy so the setup isn't that hard.
 
+
 ## Acme
 One of the great advantages to having a firewall with HAproxy is that you can centeralize your certificate generation and usage.
 On all my servers that I open up to the outside I want to be able to add a valid certificate.
 I can do this by using letsencrypt and acme.
 But before I set this up for my servers and HAproxy I want to set it up for the firewall itself.
 But I only will generate the certificate and install it but I wont enable access to the firewall from outside of the network.
+After adding all the needed info to the acme plugin I could issue the certificate.
+![firewall cert](images/firewallcert.png)
+I can now change the administration webpage to https and select the new certificate.
+And I have a secure connection. This domain I deleted from my hosting dns and added to my pihole local dns records.
 
+![secure connection](images/secureconnection.png)
 
+## Camera's
+We have a camera system running at home but before I ran the main server in docker on one of my lab servers.
+But after this migration to firewall all those servers are inside the firewall lan.
+And therefor not accessible from outside that lan not even my own home network.
+I needed to fix this to be able to access the cameras from inside our network but not from outside our network.
+I could do this by some port forward.
+![port forwards](images/portforwardsc.png)
+
+After adding all these rulse I can access my cameras from my homenetwork but not from the outside just like I wanted.
+
+After that if I want to simply add acces to a service like portainer I can easily add a rule for it.
+![portainer rule](iamges/portainer.png)
