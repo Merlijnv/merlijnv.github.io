@@ -111,6 +111,23 @@ I used the cloud c2 environment I have set up earlier for the packet squirrel bu
 This way I can use the wifi pineapple and access it's features even offsite.
 ![cloud c2 wifi pineapple](images/c2pineapple.png)
 
-### Goal
+### testing out
 
-I want to setup a captive portal and see how many people will use it.
+I have the pineapple running and connected with a internet cable.
+
+
+### traffic capture
+
+I can install dwall which captures all http requests and images.
+This works really well but doesn't capture https traffic.
+Which doesn't do alot because the percentage of encryption enabled in Chrome’s loaded webpages in October 2019 has reached 95%.
+so I would only capture 5% off all the traffic.
+![dwall](iamges/dwall.png)
+
+#### ssl split
+
+I tried out sslsplit to check if I can capture https data.
+But after generating a certificate and all it keeps getting a error on the victim.
+This is because the certificate is not valid for that domain.
+This is not great because this then only works for clients that don't check certificates.
+![ssl split](images/sslsplit.png)
