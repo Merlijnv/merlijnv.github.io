@@ -12,6 +12,9 @@ I am happy that the rest of my group agrees with me being the leader and give me
 ## Sprint 1
 ![peerreview sprint 1](images/peer_review_sprint1.png)
 
+I think the general feedback is something we really need to work on.
+We have such a big project and with so much people working on it it's really important to share all the knowledge.
+I improved my overexplaining but still have some work on it.
 
 ## Sprint 2
 ![peerreview sprint 2](images/peer_review_sprint2.png)
