@@ -114,7 +114,10 @@ This way I can use the wifi pineapple and access it's features even offsite.
 ### testing out
 
 I have the pineapple running and connected with a internet cable.
-
+I let the pineap associate and I saw RDC comming by which is our scouting wifi name.
+In my phone I saw the wifi also popping up as open network.
+After tapping it on my phone I saw my phone popping up as client.
+![clients](images/clients.png)
 
 ### traffic capture
 
@@ -122,7 +125,7 @@ I can install dwall which captures all http requests and images.
 This works really well but doesn't capture https traffic.
 Which doesn't do alot because the percentage of encryption enabled in Chrome’s loaded webpages in October 2019 has reached 95%.
 so I would only capture 5% off all the traffic.
-![dwall](iamges/dwall.png)
+![dwall](images/dwall.png)
 
 #### ssl split
 
