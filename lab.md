@@ -26,7 +26,7 @@ I found packages to install this on pfSense.
 
 But after trying to get it to work which failed I found OPNSense which included wireguard and also has some other nice extra features.
 
-![not running service](images/wgnotworking.png)
+![not running service](/images/wgnotworking.png)
 
 ### OPNSense
 
@@ -38,15 +38,15 @@ So I deleted everything of wireguard and started again from scratch.
 I set up the server and then generated a peer on my phone. After that I added the peer settings to my OPNsense.
 I started the wireguard server and it was running!
 I added all the needed rules.
-![wg rules 1](images/wgrules1.png)
-![wg rules 2](images/wgrules2.png)
-![wg rules 3](images/wgrules3.png)
+![wg rules 1](/images/wgrules1.png)
+![wg rules 2](/images/wgrules2.png)
+![wg rules 3](/images/wgrules3.png)
 After adding those rules I configured my peer to connect to the public ip of my home router and added a port forward to the homelab firewall(After all is working this will be the dmz instead of port forwards).
 After configuring everything I turned on my phones data and connected to the vpn.
 I tried to communicate with the kali that was running inside the firewall lan network and it worked!
 I have a connection and it also shows up in the interfaces.
-![wg working](images/wgconnection.png)
-![wg interfaces](images/wginterfaces.png)
+![wg working](/images/wgconnection.png)
+![wg interfaces](/images/wginterfaces.png)
 
 ## Configuration control and backup
 
@@ -54,10 +54,10 @@ Because I don't want to lose my changes when something goes wrong and also track
 OPNsense has a plugin to get this to work. I installed it generated a ssh key for this use and added it to my github.
 After setting up the repo and adding all the credentials it worked! the whole config is saved in 1 .xml file.
 
-![backup succesful](images/backup.png)
+![backup succesful](/images/backup.png)
 
 And offcourse after working in this sometime I had to change the theme to dark mode.
-![dark mode](images/darkmode.png)
+![dark mode](/images/darkmode.png)
 
 ## Intrusion detection
 Because this will be a set of servers accessible from the outside I want to have a intrusion detection system.
@@ -66,7 +66,7 @@ So I had to do some research on those rulesets which will be a good one for my s
 After some searching I registered for ET Pro ruleset and installed it.
 After installing it and enabeling it I needed to restart and it works.
 Immediatly having some blocks which arent really harmfull but not needed from spotify.
-![ips block](images/ipsblock.png)
+![ips block](/images/ipsblock.png)
 
 I will later on see if I can expand this intrusion detection by some of my own rules.
 
@@ -83,11 +83,11 @@ I can do this by using letsencrypt and acme.
 But before I set this up for my servers and HAproxy I want to set it up for the firewall itself.
 But I only will generate the certificate and install it but I wont enable access to the firewall from outside of the network.
 After adding all the needed info to the acme plugin I could issue the certificate.
-![firewall cert](images/firewallcert.png)
+![firewall cert](/images/firewallcert.png)
 I can now change the administration webpage to https and select the new certificate.
 And I have a secure connection. This domain I deleted from my hosting dns and added to my pihole local dns records.
 
-![secure connection](images/secureconnection.png)
+![secure connection](/images/secureconnection.png)
 
 ## Camera's
 We have a camera system running at home but before I ran the main server in docker on one of my lab servers.
@@ -95,7 +95,7 @@ But after this migration to firewall all those servers are inside the firewall l
 And therefor not accessible from outside that lan not even my own home network.
 I needed to fix this to be able to access the cameras from inside our network but not from outside our network.
 I could do this by some port forward.
-![port forwards](images/portforwardsc.png)
+![port forwards](/images/portforwardsc.png)
 
 After adding all these rulse I can access my cameras from my homenetwork but not from the outside just like I wanted.
 

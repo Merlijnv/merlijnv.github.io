@@ -1,6 +1,6 @@
 # Project
 ## Intersect
-![Intersect logo](images/intersectlogo.png)
+![Intersect logo](/images/intersectlogo.png)
 
 The Research and development (R&D) project I am working on this semester is the Intersect project. This project is a set of guidelines for IoT devices within Smart industry, Smart mobility, Smart health and Smart city. Intersect is a study that aims to provide more security for IoT devices.
 

@@ -16,7 +16,7 @@ As Phsing framework, we have chosen for GoPhish.
 On this framework, we can create a campaign with an email template and a landing page.
 These we can make ourselves or import from an existing site.
 The campaigns can be planned and you get a clear overview of all the results.
-![Go Phish](images/gophish.png)
+![Go Phish](/images/gophish.png)
 
 ### Mail
 The mail still needs some working on it.
@@ -28,7 +28,7 @@ But notice the dewever.ml at the top which could be seen by the victim.
 We also added a free generated ssl certificate which is making the portal more trustworthy.
 When people fill in their info and click log in they will be redirected to the real login page.
 And we will get that info without a password in our campaign.
-![Landing page fake](images/landingpage.png)
+![Landing page fake](/images/landingpage.png)
 
 ### SMTP Server
 As an smtp server, we first tried to use postfix this worked but some of the emails went into spam. This was mostly on office 365 outlook which de wever is also using.
@@ -36,7 +36,7 @@ To fix this we tried to get a real smtp server. We have used mailgun for a proje
 We added the needed dns records and configured the smtp.
 This way as far as we know for now all the emails ended up in the inbox instead of spam.
 We can send 20K emails which is more then enough.
-![mailgun](images/mailgun.png)
+![mailgun](/images/mailgun.png)
 
 ### Findings
 Findings will be shared after the campaign in november/december.

@@ -30,11 +30,11 @@ This is a delightful, open source, community-driven framework for managing your 
 Those plugins and themes can be very usefull and productive.
 
 The theme can give u alot of information. Like this extravagant example below.
-![extravagant zsh](images/extravagant.png)
+![extravagant zsh](/images/extravagant.png)
 
 Mine doesn't look this extra vagant. I use the [Powerlevel10K theme](https://github.com/romkatv/powerlevel10k). When using things like a git repository I will see info about the repository in that folder with unstaged changes and not pushed commits. This is realy helpful and also works for other things like python. I can also add my vpn ip to this when connected to vpn like htb.
-![terminal theme](images/terminaltheme.png)
-![vpn ip](images/vpnip.png)
+![terminal theme](/images/terminaltheme.png)
+![vpn ip](/images/vpnip.png)
 
 #### Plugins
 I am using multiple plugins that are realy productive and useful:
@@ -45,18 +45,18 @@ I am using multiple plugins that are realy productive and useful:
 - **zsh-syntax-highlighting** Highlights know commands and makes them red if they are not known
 - **k** k is a zsh script / plugin to make directory listings more readable, adding a bit of color and some git status information on files and directories.
 - **autojump** a faster way to navigate your filesystem by just typing j with the dir name. It works by maintaining a database of the directories you use the most from the command line.
-![dircycle](images/dircycle.png){: width="100%" style="border: 3px solid #2f690a"}
+![dircycle](/images/dircycle.png){: width="100%" style="border: 3px solid #2f690a"}
 *example dircycle*
-![syntax](images/syntax.png){: width="100%" style="border: 3px solid #2f690a"}
+![syntax](/images/syntax.png){: width="100%" style="border: 3px solid #2f690a"}
 *example syntax highlighting*
-![k](images/k.png){: width="100%" style="border: 3px solid #2f690a"}
+![k](/images/k.png){: width="100%" style="border: 3px solid #2f690a"}
 *example k*
-![autojump](images/jump.png){: width="100%" style="border: 3px solid #2f690a"}
+![autojump](/images/jump.png){: width="100%" style="border: 3px solid #2f690a"}
 *example autojump*
 
 
 ## P4wnp1
-![Rasberry pi 4 usb c gadget](images/p4wnp1case.png){: width="36%" style="float:right; margin-top: -20px"}
+![Rasberry pi 4 usb c gadget](/images/p4wnp1case.png){: width="36%" style="float:right; margin-top: -20px"}
 
 I have a raspberry pi zero w where I 3d printed a case for and on which I run [P4wnp1 aloa](https://github.com/RoganDawes/P4wnP1_aloa) so I can use it as a hid hacking tool but also as a dropbox. I have written several payloads for this that you can read more about below. I also have an explanation of how I made the P4wnp1 function as a dropbox.
 [read more](p4wnp1)
@@ -72,7 +72,7 @@ But after some time I got it to work.
 I use Termius for the ssh connection and RealVNC for remote desktop control.
 This way I can use the raspberry pi without the need of struggling by connecting with a network every place I am.
 By using this I have a powerful hacking device on my MacBook Pro that I can also do some wifi hacking on by utilizing the raspberry pi 4 wifi chipset.
-![Rasberry pi 4 usb c gadget](images/rpi4c.jpg)
+![Rasberry pi 4 usb c gadget](/images/rpi4c.jpg)
 [*source usb c gadget*](https://www.hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget/)
 
 ## Dropbox
@@ -86,12 +86,12 @@ The Packet Squirrel by Hak5 is a stealthy pocket-sized man-in-the-middle. This E
 Because I am the ICT guy at our scouting I was interested how secure our network is. We have a camera system that is connected to the network. I wanted to try if I could capture the camera packets of those camera's without anyone noticing it.
 
 I got the Packet Squirrel connected it to one of the ethernet cables and added one cable where the cable was previously put in. I connected a usb thumb drive to the Packet Squirrel to save all the loot to.
-![PacketSquirrel](images/packetsquirrel.jpg){: height="500px"}
-![PacketSquirrel zoomed in](images/packetsquirrel2.jpg){: height="500px"}
+![PacketSquirrel](/images/packetsquirrel.jpg){: height="500px"}
+![PacketSquirrel zoomed in](/images/packetsquirrel2.jpg){: height="500px"}
 
 At first I wanted to try to capture the rtsp packages but because we just got a new network the camera system couldn't connect to their static ip because we got now ip ranges.
 Because of this I did get a tcpdump of the security camera system requesting it's static ip.
-![Static IP TCP Dump](images/statictcpdump.png)
+![Static IP TCP Dump](/images/statictcpdump.png)
 
 I will do some more testing at scouting
 
@@ -109,7 +109,7 @@ I have done some work with the pineapple a couple semesters in advance but that 
 ### C2
 I used the cloud c2 environment I have set up earlier for the packet squirrel but this time I moved it to a digital ocean vps.
 This way I can use the wifi pineapple and access it's features even offsite.
-![cloud c2 wifi pineapple](images/c2pineapple.png)
+![cloud c2 wifi pineapple](/images/c2pineapple.png)
 
 ### testing out
 
@@ -117,7 +117,7 @@ I have the pineapple running and connected with a internet cable.
 I let the pineap associate and I saw RDC comming by which is our scouting wifi name.
 In my phone I saw the wifi also popping up as open network.
 After tapping it on my phone I saw my phone popping up as client.
-![clients](images/clients.png)
+![clients](/images/clients.png)
 
 ### traffic capture
 
@@ -125,7 +125,7 @@ I can install dwall which captures all http requests and images.
 This works really well but doesn't capture https traffic.
 Which doesn't do alot because the percentage of encryption enabled in Chrome’s loaded webpages in October 2019 has reached 95%.
 so I would only capture 5% off all the traffic.
-![dwall](images/dwall.png)
+![dwall](/images/dwall.png)
 
 #### ssl split
 
@@ -133,4 +133,4 @@ I tried out sslsplit to check if I can capture https data.
 But after generating a certificate and all it keeps getting a error on the victim.
 This is because the certificate is not valid for that domain.
 This is not great because this then only works for clients that don't check certificates.
-![ssl split](images/sslsplit.png)
+![ssl split](/images/sslsplit.png)

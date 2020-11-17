@@ -12,18 +12,18 @@ I have made some writeups of hackthebox (Linux and Windows).
 
 ## [Windows machine writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbwindows.pdf){: style="float: right; width: 50%; margin-top: -4px;"}
 
-![Linux machine writeup](images/cache.png){: width="50%" style="float: left;"}
+![Linux machine writeup](/images/cache.png){: width="50%" style="float: left;"}
 
-![Windows machine writeup](images/buff.png){: width="50%" style="float: right;"}
+![Windows machine writeup](/images/buff.png){: width="50%" style="float: right;"}
 
 I also made some writeups that describes the exploit more in depth.
 ## [OpenKeyS writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbopenkeys.pdf){: style="float: left; width: 50%"}
 
 ## [Dyplesher writeup](https://www.merlijnvermeer.nl/writeups/merlijnvermeerhtbdyplesher.pdf){: style="float: right; width: 50%;margin-top: -4px;"}
 
-![Linux machine writeup](images/openkeys.png){: width="50%" style="float: left;"}
+![Linux machine writeup](/images/openkeys.png){: width="50%" style="float: left;"}
 
-![Windows machine writeup](images/dyplesher.png){: width="50%" style="float: right;padding-bottom: 44px;background-color: #0b0d0f;"}
+![Windows machine writeup](/images/dyplesher.png){: width="50%" style="float: right;padding-bottom: 44px;background-color: #0b0d0f;"}
 
 
 For the password for the writeups check canvas.
@@ -36,12 +36,12 @@ After having done multiple boxes with different difficulties I also wanted to tr
 
 
 ## Progress
-![Machine Progress](images/machineprogress.png){: width="50%" style="float: left;"}
-![Challenge Progress](images/challengeprogress.png){: width="50%" style="float: right;"}
+![Machine Progress](/images/machineprogress.png){: width="50%" style="float: left;"}
+![Challenge Progress](/images/challengeprogress.png){: width="50%" style="float: right;"}
 
 ## Achievements
 I have begon this semester with no hackthebox experience I only created a account before but never did something with it (I already regret that). But since then I learned a lot of real life hacking scenarios and  how to tackle them. I have done alot of boxes easy hard and even insane I also tried fortress.
 
 I have come in the top of Netherland user ranking of Hack the Box. I am currently nr 31/691 of and I am planning to get even higher.
 I am rank 609 of the global ranking.
-![Ranking](images/ranking.png)
+![Ranking](/images/ranking.png)

@@ -8,7 +8,7 @@ This server can be used by the dropbox to connect to it.
 This server must be always reachable otherwise the dropbox can't be connected to so will be useless.
 This server can be a digital ocean server because I have a server at home I could also use that but for security reasons, I will use a digital ocean VPS.
 I have created a droplet with the least resources because there isn't much required from this server.
-![Digital Ocean](images/digitalocean.png)
+![Digital Ocean](/images/digitalocean.png)
 
 One of the key components of a dropbox is to get a connection remotely after dropping it somewhere.
 This can be accomplished by a reverse ssh connection or a reverse VPN connection.
@@ -57,7 +57,7 @@ I also handmade a small ethernet cable to make it more convenient when dropping 
 There is an external battery to make it possible to drop in places where you can't use a wall socket.
 After some time with tinkering around with the autossh, I thought it would be better to use a [reverse vpn](#reverse-VPN-gateway) that way I have full access over the machine not only ssh.
 This I will do in combination with the auto ssh to always have a backup if anything goes wrong with one of them.
-![pi4 dropbox](images/dropboxpi4.jpg)
+![pi4 dropbox](/images/dropboxpi4.jpg)
 
 ## P4wnp1
 The p4wnp1 is running a full set of Kali Linux it also has access to HID attacks.
@@ -79,17 +79,17 @@ I will install OpenVPN on the server and after that configure the p4wnp1 to work
 When OpenVPN is installed you can open the admin page most of the things are already set up correctly.
 You have to add a user for your pentesting machine mine is called Merlijn and one for your dropbox mine is called dropbox.
 These two should have auto login permissions especially the dropbox.
-![openvpn users](images/users.png)
+![openvpn users](/images/users.png)
 
 When both of the users are added you should go into more settings of dropbox and enable VPN gateway.
 Here you have to specify what network the gateway should work on I have set the most used network 192.168.1.1/24
 this can later be changed or extended depending on your target.
-![openvpn gateway](images/gateway.png)
+![openvpn gateway](/images/gateway.png)
 
 After setting this all up I can just connect to the OpenVPN server with my kali machine.
 When connected to the OpenVPN server I can now access the network my dropbox is connected to.
 Both the clients/ client and gateway are connected.
-![openvpn gateway](images/connected.png)
+![openvpn gateway](/images/connected.png)
 
 
 TODO traceroute
