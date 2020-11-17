@@ -11,3 +11,13 @@ defaults:
       type: pages
     values:
       permalink: "/:basename/"
+  - scope:
+      path: "_pages/results"
+      type: pages
+    values:
+      permalink: "/results/:basename/"
+  - scope:
+      path: "_pages/project"
+      type: pages
+    values:
+      permalink: "/project/:basename/"
