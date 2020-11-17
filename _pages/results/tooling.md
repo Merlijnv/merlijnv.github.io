@@ -59,7 +59,7 @@ I am using multiple plugins that are realy productive and useful:
 ![Rasberry pi 4 usb c gadget](/images/p4wnp1case.png){: width="36%" style="float:right; margin-top: -20px"}
 
 I have a raspberry pi zero w where I 3d printed a case for and on which I run [P4wnp1 aloa](https://github.com/RoganDawes/P4wnP1_aloa) so I can use it as a hid hacking tool but also as a dropbox. I have written several payloads for this that you can read more about below. I also have an explanation of how I made the P4wnp1 function as a dropbox.
-[read more](p4wnp1)
+[read more](/results/p4wnp1)
 
 
 ## Raspberry pi 4
@@ -78,7 +78,7 @@ By using this I have a powerful hacking device on my MacBook Pro that I can also
 ## Dropbox
 So I use my raspberry pi zero w and my raspberry pi 4 as a dropbox.
 But how do I get this to work, what improvements did I add and how do I use this dropbox.
-You can read more about this dropbox [here](dropbox).
+You can read more about this dropbox [here](/results/dropbox).
 
 ## Packet Squirrel
 The Packet Squirrel by Hak5 is a stealthy pocket-sized man-in-the-middle. This Ethernet multi-tool is designed to give you covert remote access. Provides you with painless packet captures. This has secure VPN connections with the flip of a switch. 

@@ -36,7 +36,7 @@ You show that you can plan, manage and evaluate your personal development and le
 {:.geh}
 ### Grade explanation (Personal Development)
 I think for technical skills I am on the advanced level. I have done all the needed activities and challenges which can be seen at [results](results).
-Besides the needed activities and outcomes I also added some activities and challenges like my personal project [P4wnP1](p4wnp1) and my work on my [secure lab environment at home](lab)
+Besides the needed activities and outcomes I also added some activities and challenges like my personal project [P4wnP1](/results/p4wnp1) and my work on my [secure lab environment at home](/results/lab)
 But I have also helped multiple of my teammates with the work they did not understand yet and helped them fix the issues they were having. For confirmation Thomas van Heel and Joël Adams can be asked.
 
 <hr>
@@ -55,7 +55,7 @@ Technical Red teaming skills are related to (IT) security technical skills, such
 
 {:.geh}
 ### Grade explanation (Technical skills)
-I have done a lot of work on expanding my red teaming technical skills. I have learned a lot of hacking techniques from [Hack the Box](htb) where I also learned how to target different platforms(Windows, Linux, OpenBSD), physical security aspects and offensive hardwared from using: P4wnp1, wifi pineapple, rubber ducky, packet squirrel and dropbox which I described in [P4wnP1](p4wnp1) and [Tooling](tooling). I also did IoT security testing described in [R&D Project](project).
+I have done a lot of work on expanding my red teaming technical skills. I have learned a lot of hacking techniques from [Hack the Box](/results/htb) where I also learned how to target different platforms(Windows, Linux, OpenBSD), physical security aspects and offensive hardwared from using: P4wnp1, wifi pineapple, rubber ducky, packet squirrel and dropbox which I described in [P4wnP1](/results/p4wnp1) and [Tooling](/results/tooling). I also did IoT security testing described in [R&D Project](project).
 
 <hr>
 
@@ -65,7 +65,7 @@ Reporting activity and results:  written report to client/blue team/development 
 
 {:.geh}
 ### Grade explanation (Procedural skills)
-For Procedural skills I think I am at proficient. I have done writeups of boxes in [Hack the Box](htb). I also have done a pentest where I will have done a phising test at a company where we comminicated a test plan and written consent which are described in [Wever](wever). I also done a written report for the [Red vs Blue team events](redvsblue). I have done some knowledge sharing by helping others with making the Red vs Blue team pentest report. I could improve this by making a secure code review report for maybe the R&D Project.
+For Procedural skills I think I am at proficient. I have done writeups of boxes in [Hack the Box](/results/htb). I also have done a pentest where I will have done a phising test at a company where we comminicated a test plan and written consent which are described in [Wever](/results/wever). I also done a written report for the [Red vs Blue team events](redvsblue). I have done some knowledge sharing by helping others with making the Red vs Blue team pentest report. I could improve this by making a secure code review report for maybe the R&D Project.
 
 <hr>
 
@@ -96,4 +96,4 @@ I will expand this in the comming weeks.
 
 {:.geh}
 ### Grade explanation (Collaboration and Communication skills)
-I think I have my R&D Collaboration and Communication skills at proficiēnt. I am the project leader of the project and do the communication with Teade Punter. I have got good [feedback](peerreview) from my peer's and think we have a good collaboration and communication in the R&D project. I also do most of the talks with the stakeholders.
+I think I have my R&D Collaboration and Communication skills at proficiēnt. I am the project leader of the project and do the communication with Teade Punter. I have got good [feedback](/project/peerreview) from my peer's and think we have a good collaboration and communication in the R&D project. I also do most of the talks with the stakeholders.
