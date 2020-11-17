@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Merlijn Vermeer
 description: Cyber Security Minor
+include: ['_pages']
