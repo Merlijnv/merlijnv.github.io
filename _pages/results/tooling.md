@@ -20,7 +20,8 @@ In this environment, I have installed kali full. But I also installed some extra
 - [gobuster](https://github.com/OJ/gobuster). this is a directory and DNS fuzzer that I prefer.
 - [evil-winrm](https://github.com/Hackplayers/evil-winrm). The ultimate Windows Remote Management shell for hacking/pentesting.
 - [git-dumper](https://github.com/arthaud/git-dumper). A tool to dump a git repository from a website.
-- 
+- [pwntools]
+- [angr]
 
 ### Terminal (ZSH)
 Instead of using bash as terminal I am using zsh.
