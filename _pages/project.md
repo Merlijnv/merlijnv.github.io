@@ -10,6 +10,10 @@ at the beginning of this semester, we had a number of projects to choose from to
 
 To get a better picture of the impact of this project, I first made my own ethical analysis. I did this via the TICT tool from fontys. I looked at the Impact of this project on the users, how people can misuse it and at any unintended side effects. This includes the impact on the environment, but also the prejudices that may be part of the project. the full analysis can be found [here](../pdf/TICT.pdf).
 
+## Research approach
+In the beginning attention was paid to the research approach. Everyone had to come up with individual sub-questions, main questions and associated methods from the DOT framework. After everyone had done this, we came to one main question with a number of sub-questions. We have looked at all the described methods to achieve a good triangulation.
+All of this was put in the [research plan](/pdf/researchplan.pdf).
+
 # Table of content
 - [Research](/research.md)
 - [Peer Review](/peerreview.md)
