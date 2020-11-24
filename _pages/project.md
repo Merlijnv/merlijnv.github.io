@@ -15,6 +15,6 @@ In the beginning attention was paid to the research approach. Everyone had to co
 All of this was put in the [research plan](/pdf/researchplan.pdf).
 
 # Table of content
-- [Research](/research.md)
-- [Peer Review](/peerreview.md)
-- [My contribution](/contribution.md)
+- [Webinar](/project/webinar)
+- [Peer Review](/project/peerreview.md)
+- [My contribution](/project/contribution.md)
