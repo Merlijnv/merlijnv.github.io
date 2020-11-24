@@ -45,3 +45,14 @@ I have begon this semester with no hackthebox experience I only created a accoun
 I have come in the top of Netherland user ranking of Hack the Box. I am currently nr 31/691 of and I am planning to get even higher.
 I am rank 609 of the global ranking.
 ![Ranking](/images/ranking.png)
+
+
+# HTB x Uni CTF 2020
+In the weekend of 20-22 november we participated on the ctf of hackthebox with a team of 10 people with 2 known guests.
+I really enjoyed this ctf and learned alot from it mostly some thing on crypto and reversing. I also learned some new tools which I added to my [tooling](/results/tooling).
+We started preparing in advance and making a discord to communicate with the team and collaborate with each other on challenges.
+![Discord](/images/discord.png)
+![Discord Colaboration](/images/discordcolaboration.png)
+
+I think we did really good and we ended up #77 of 202 with a team that didn't have any ctf experience except hackthebox itself.
+![rank](/images/rankingctf.png)
