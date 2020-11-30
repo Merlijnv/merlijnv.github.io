@@ -65,7 +65,7 @@ Reporting activity and results:  written report to client/blue team/development 
 
 {:.geh}
 ### Grade explanation (Procedural skills)
-For Procedural skills I think I am at proficient. I have done writeups of boxes in [Hack the Box](/results/htb). I also have done a pentest where I will have done a phising test at a company where we comminicated a test plan and written consent which are described in [Wever](/results/wever). I also done a written report for the [Red vs Blue team events](redvsblue). I have done some knowledge sharing by helping others with making the Red vs Blue team pentest report. I could improve this by making a secure code review report for maybe the R&D Project.
+For Procedural skills I think I am at proficient. I have done writeups of boxes in [Hack the Box](/results/htb). I also have done a pentest where I will have done a phising test at a company where we comminicated a test plan and written consent which are described in [the results](/results/company). I also done a written report for the [Red vs Blue team events](redvsblue). I have done some knowledge sharing by helping others with making the Red vs Blue team pentest report. I could improve this by making a secure code review report for maybe the R&D Project.
 
 <hr>
 
