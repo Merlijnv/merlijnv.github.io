@@ -19,6 +19,9 @@ I improved my overexplaining but still have some work on it.
 ## Sprint 2
 ![peerreview sprint 2](/images/peer_review_sprint2.png)
 
+The group is still happy with me as group leader we are really on schedule and we have 1 sprint left where we mostly are going to work on documentation.
+There is no pesting work we are going to do.
+I got some feedback on giving other people more room to speak and I am going to work on that next sprint.
 
 ## Sprint 3
 ![peerreview sprint 3](/images/peer_review_sprint3.png)
