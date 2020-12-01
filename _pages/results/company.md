@@ -40,7 +40,11 @@ We can send 20K emails which is more then enough.
 
 ### Findings
 We had a great start on the first day after a couple hours we already have multiple people opening the mail and also pressing the link and submitting data.
-![first findings](images/firstfindings.png)
+![first findings](/images/firstfindings.png)
+
+The second day we had some reports of the phising mail to the security officer these users will be flagged as reported so we can have a better view.
+Even after the phising being noticed and discussed between collegues still we went from 30 -> 61 this day.
+![second day](/images/secondday.png)
 
 ## External application
 The external application we are still waiting for approval.
