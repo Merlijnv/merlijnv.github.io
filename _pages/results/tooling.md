@@ -135,3 +135,16 @@ But after generating a certificate and all it keeps getting a error on the victi
 This is because the certificate is not valid for that domain.
 This is not great because this then only works for clients that don't check certificates.
 ![ssl split](/images/sslsplit.png)
+
+### wpa2 enterprise
+
+I saw a new option on the wifi pineappple since I last tried it which really interested me.
+There was an option to generate a wpa2 enterprise certificate and after that possibly spoof such a access point.
+![wpa2 enterprise](/images/wpa2enterprise.png)
+I wanted to try this out at school but only with my own phone.
+So I configured everything generated a certificate and whitelisted my phone mac adress.
+I made sure only my own phone would be effected.
+
+I did some recon and found the fontys ssid.
+I cloned the access point so that this config would be used for the pineap.
+After some reading I found out wherefore the downgrade attack option was.
