@@ -147,4 +147,14 @@ I made sure only my own phone would be effected.
 
 I did some recon and found the fontys ssid.
 I cloned the access point so that this config would be used for the pineap.
-After some reading I found out wherefore the downgrade attack option was.
+And I let it run for some while after some time my phone reconnected to the internet and used the pineap.
+Without even me pressing anything so it got my wifi connection challenge and response but also my creds.
+![received creds](/images/receivedcreds.png)
+
+But after extracting the jtr formatted creds I tried to use john on it.
+But after using multiple wordlists it didn't find anything because the password is not in one of those lists.
+![john fail](/images/johnfail.png)
+I also wanted to change my password to something else to test it out but found out fontys has a new password policy.
+![password policy](/images/passwordrequirements.png)
+This makes it a lot more difficult for someone to hack a password of a fontys account this way.
+But on companies where they don't have strict password policies this could be used.

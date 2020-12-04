@@ -32,7 +32,7 @@ For the password for the writeups check canvas.
 After having done multiple boxes with different difficulties I also wanted to try fortress as a challenge. This is a machine made by a company with multiple flags and not only user and root flags.
 
 ## Challenges
-
+After the ctf I got more interest in the challenges. I learned multiple new tools which are really interesting for the challenges.
 
 
 ## Progress
