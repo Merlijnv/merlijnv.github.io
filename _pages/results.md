@@ -19,3 +19,6 @@ I have a homelab at home where I run my virual machines such as my development s
 Before this semester this was running a setup where all the severs where accessible from my home network devices and vice versa.
 But this isn't really secure because when a hacker can compromise one of my servers they have full access to my home network.
 I wanted to fix this.
+
+## [CTF advent](advent)
+During the december month a ctf has been started that contains multiple cyber ctf challenges which I did.
