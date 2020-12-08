@@ -23,3 +23,14 @@ And there it was.
 Again trying it in cyber chef and it works.
 ![challenge 1 solve](/images/challenge1solve.png)
 
+## Challenge 2
+//TODO
+
+## Challenge 3
+This challenge had a login but the login used javascript it takes the username and adds -NOVI to it and then base64 encrypts it. Then the result of that it compares to the password.
+So I had to for example use a as username and base64 encrypt a-NOVI and that's the password.
+
+## Challenge 4
+I started with a login after inserting random username and password I got a response site but I couldn't go back after looking into the cookies I found a token.
+I decrypted it with cyber chef and got a json with guest true admin false. I changed it to guest false admin true. That didn't work there was a second part to it. It looked like a key so I changed it to user 1-5 and calculated the key when I got to user 5 it worked.
+![challenge 4](/images/challenge5.png)
