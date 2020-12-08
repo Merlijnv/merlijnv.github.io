@@ -72,7 +72,7 @@ I decrypted it with cyber chef and got a json with guest true admin false. I cha
 
 
 ## Challenge 8
-![challenge 8](/images/challenge8)
+![challenge 8](/images/challenge8.png)
 At the beginning this was a really confusing challenge this was a really empty page without any interesting in the code.
 
 ![challenge 8 robots.txt](/images/challenge8robots.png)
