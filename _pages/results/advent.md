@@ -34,3 +34,25 @@ So I had to for example use a as username and base64 encrypt a-NOVI and that's t
 I started with a login after inserting random username and password I got a response site but I couldn't go back after looking into the cookies I found a token.
 I decrypted it with cyber chef and got a json with guest true admin false. I changed it to guest false admin true. That didn't work there was a second part to it. It looked like a key so I changed it to user 1-5 and calculated the key when I got to user 5 it worked.
 ![challenge 4](/images/challenge5.png)
+
+## Challenge 5
+
+
+## Challenge 6
+
+
+## Challenge 7
+
+
+## Challenge 8
+![challenge 8](/images/challenge8)
+At the beginning this was a really confusing challenge this was a really empty page without any interesting in the code.
+
+![challenge 8 robots.txt](/images/challenge8robots.png)
+Here we find 2 interesting pages 1 has a rhyme but a really weird url.
+The other has a encrypted message.
+![challenge 8 encrypted](/images/challenge8encrypted.png)
+After I found out it's base64 encoded it says: "Encoding and encryption are 2 different things."
+
+After some thinking I tought the weird url could maybe be rot13.
+After decoding it says "/santa/has/many/places/to/go" when going to this url we got the flag
