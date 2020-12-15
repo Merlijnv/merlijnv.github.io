@@ -12,6 +12,7 @@ To get a better picture of the impact of this project, I first made my own ethic
 ## Research approach
 In the beginning attention was paid to the research approach. Everyone had to come up with individual sub-questions, main questions and associated methods from the DOT framework. After everyone had done this, we came to one main question with a number of sub-questions. We have looked at all the described methods to achieve a good triangulation.
 All of this was put in the [research plan](/pdf/researchplan.pdf).
+You can read more on our concrete research approach [here](research)
 
 ## Website
 

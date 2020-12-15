@@ -35,7 +35,7 @@ On my first day I did challenge 0-4.
 ![Challenge 0](/images/challenge0.png)
 The teaser site huh after looking for a teaser site I tried way back machine.
 There was 1 other date in the way back machine.
-In the code there was a encryption.
+In the code, there was encryption.
 
 ![waybackmachine](/images/waybackmachine.png)
 
@@ -81,7 +81,7 @@ The other has a encrypted message.
 ![challenge 8 encrypted](/images/challenge8encrypted.png)
 After I found out it's base64 encoded it says: "Encoding and encryption are 2 different things."
 
-After some thinking I tought the weird url could maybe be rot13.
+After some thinking I thought the weird url could maybe be rot13.
 After decoding it says "/santa/has/many/places/to/go" when going to this url we got the flag
 
 ## Challenge 9
