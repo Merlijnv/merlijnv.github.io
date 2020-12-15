@@ -10,9 +10,11 @@ We tried to use as much triangulation as we could. This way we researched the qu
 *What vulnerabilities can be found in the Air-quality and smart screen projects?*
 _The Air-quality and smart screen are part of our project, we will partially base our guidelines on the results of the vulnerability assessment of these two projects._
 
-Lab: Security test
-Workshop: Code review
-Showroom: Ethical check
+We used the following research methods:
+
+- Lab: Security test
+- Workshop: Code review
+- Showroom: Ethical check
 
 ### Lab: Security test
 
