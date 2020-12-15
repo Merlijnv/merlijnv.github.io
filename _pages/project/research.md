@@ -26,4 +26,4 @@ To also find out not easy to find vulnerabilities we wanted to do a white box te
 
 ### Showroom: Ethical check
 
-We also did an ethical check mainly on how ethical our guidelines are because our research is supported by certain products in our scope. But if we share all the vulnerabilities with their name on them. We endanger the companies that have these vulnerabilities. So we took that into account when deciding how to present our findings of these vulnerabilities. To accomplish a good overview of all the ethical dangers we made a [TICT report](/pdf/TICT.pdf)
+We also did an ethical check mainly on how ethical our guidelines are because our research is supported by certain products in our scope. But if we share all the vulnerabilities with their name on them. We endanger the companies that have these vulnerabilities. So we took that into account when deciding how to present our findings of these vulnerabilities. To accomplish a good overview of all the ethical dangers we made a [TICT report](/pdf/TICT.pdf).
