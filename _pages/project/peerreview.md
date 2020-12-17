@@ -45,6 +45,8 @@ I got some feedback on giving other people more room to speak and I am going to 
 At the last sprint I have gotten individual feedback from all group members on all learning outcomes.
 I did this by making a google form with all the learning outcomes and their levels explained and a tips and a tops field.
 
+---
+
 ### Learning outcome 1: Personal development
 
 |        | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
@@ -55,6 +57,8 @@ I did this by making a google form with all the learning outcomes and their leve
 | Joēl   | Advanced                                                | Overall a good leader. keeps the planning in mind and talks to the whole   group.                             | Perhaps let the others talk a little more.                 |
 | Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
 | 0      | #VALUE!                                                 | 0                                                                                                             | 0                                                          |
+
+---
 
 ### Learning outcome 2: Security Specialist
 
@@ -69,6 +73,8 @@ I did this by making a google form with all the learning outcomes and their leve
 | Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
 | 0      | #VALUE!                                                 | 0                                                                                                             | 0                                                          |
 
+---
+
 #### Procedural skills
 
 |        | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
@@ -79,6 +85,8 @@ I did this by making a google form with all the learning outcomes and their leve
 | Joēl   | Advanced                                                | Overall a good leader. keeps the planning in mind and talks to the whole   group.                             | Perhaps let the others talk a little more.                 |
 | Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
 | 0      | #VALUE!                                                 | 0                                                                                                             | 0                                                          |
+
+---
 
 ### Learning outcome 3: Research and development skills
 
@@ -93,6 +101,7 @@ I did this by making a google form with all the learning outcomes and their leve
 | Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
 | 0      | #VALUE!                                                 | 0                                                                                                             | 0                                                          |
 
+
 #### Methodical skills R&D
 
 |        | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
@@ -104,6 +113,8 @@ I did this by making a google form with all the learning outcomes and their leve
 | Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
 | 0      | #VALUE!                                                 | 0                                                                                                             | 0                                                          |
 
+---
+
 #### Collaboration and Communication skills R&D
 
 |        | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
@@ -114,3 +125,5 @@ I did this by making a google form with all the learning outcomes and their leve
 | Joēl   | Advanced                                                | Overall a good leader. keeps the planning in mind and talks to the whole   group.                             | Perhaps let the others talk a little more.                 |
 | Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
 | 0      | #VALUE!                                                 | 0                                                                                                             | 0                                                          |
+
+---
