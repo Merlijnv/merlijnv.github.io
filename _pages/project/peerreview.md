@@ -13,7 +13,7 @@ I am happy that the rest of my group agrees with me being the leader and give me
 ### Actionpoints for sprint 1
 
 - talk more calmly
-- ask opinion of the silent persons in our group
+- ask more opinion from the silent persons in our group
 
 ## Sprint 1
 
@@ -43,7 +43,50 @@ I got some feedback on giving other people more room to speak and I am going to 
 ## Sprint 3
 
 At the last sprint I have gotten individual feedback from all group members on all learning outcomes.
-I did this by making a google forms with all the learning outcomes and their levels explained and a tips and a tops field.
+I did this by making a google form with all the learning outcomes and their levels explained and a tips and a tops field.
+
+<style>
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-top: 1px solid grey;
+}
+
+td, th {
+  margin: 0;
+  border: 1px solid grey;
+  white-space: nowrap;
+  border-top-width: 0px;
+}
+
+div {
+  width: 500px;
+  overflow-x: scroll;
+  margin-left: 5em;
+  overflow-y: visible;
+  padding: 0;
+}
+
+.headcol {
+  position: absolute;
+  width: 5em;
+  left: 0;
+  top: auto;
+  border-top-width: 1px;
+  /*only relevant for first row*/
+  margin-top: -1px;
+  /*compensate for top border*/
+}
+
+.headcol:before {
+  content: 'Row ';
+}
+
+.long {
+  background: yellow;
+  letter-spacing: 1em;
+}
+</style>
 
 | Name   | What level do you think I am on Personal Development? | Do you have any mentions or tops concerning Personal Development?              | Do you have any tips concerning Personal Development? | What level do you think I am on Technical skills as a security specialist? | Do you have any mentions or tops concerning Technical skills as a security specialist?          | Do you have any tips concerning Technical skills as a security specialist? | What level do you think I am on Procedural skills as a security specialist? | Do you have any mentions or tops concerning Procedural skills as a security specialist? | Do you have any tips concerning Procedural skills as a security specialist? | What level do you think I am on Technical R&D project skills? | Do you have any mentions or tops concerning Technical R&D project skills? | Do you have any tips concerning Technical R&D project skills?                                          | What level do you think I am on Methodical R&D project process? | Do you have any mentions or tops concerning Methodical R&D project process? | Do you have any tips concerning Methodical R&D project process? | What level do you think I am on Collaboration and Communication skills? | Do you have any mentions or tops concerning Collaboration and Communication skills? | Do you have any tips concerning Collaboration and Communication skills?                                                                                                                                                                 | Do you have any general tip for me?             | Do you have any general top for me?                                                   |
 |--------|-------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------|
