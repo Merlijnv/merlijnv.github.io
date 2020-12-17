@@ -59,15 +59,12 @@ td, th {
   border-top-width: 0px;
 }
 
-div {
-  width: 500px;
+.container {
   overflow-x: scroll;
-  margin-left: 5em;
   overflow-y: visible;
-  padding: 0;
 }
 
-.headcol {
+td:nth-child(1) {
   position: absolute;
   width: 5em;
   left: 0;
@@ -78,13 +75,8 @@ div {
   /*compensate for top border*/
 }
 
-.headcol:before {
+td:nth-child(1):before {
   content: 'Row ';
-}
-
-.long {
-  background: yellow;
-  letter-spacing: 1em;
 }
 </style>
 
