@@ -9,6 +9,20 @@ I have done a lot of boxes and challenges on hackthebox.
 Besides my personal work I am really proud of what my group did for the R&D project.
 I think we did some top-notch research and made some good guidelines and best practices for IoT devices.
 
-
-
 ## Personal reflection
+
+I think I  improved on my personal development this semester.
+My research skills improved and also my scrum skills.
+Besides that I improved in writing I took more time for it and planned it better than other semesters.
+I also asked a lot of feedback compared to other semesters from both peers and teachers.
+
+## Action points
+
+After this semester I am going to do my graduation internship.
+In my project proposal I have put some learning objectives on my personal development:
+
+|     Personal development goal          |     How to work on this                                                                                                                                                                                    |   |   |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+|     Collaboration and Communication    |     During my internship period I want to give   other people the change to give their opinion about a subject by waiting to give   my own opinion until the rest gave.                                    |   |   |
+|     Documentation                      |     I want to improve my documentation to a   better grade. I want to do this by getting more feedback from others before I   hand something in.                                                           |   |   |
+|     Research                           |     I want to make sure that I do triangulation   on every possible research question and on the overall research cover all   strategies of the DOT Framework (Library, Field, Lab, Showroom, Workshop)    |   |   |
