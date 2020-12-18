@@ -54,14 +54,14 @@ td:nth-child(3),td:nth-child(4) {
 
 ### Learning outcome 1: Personal development
 
-|                             | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
-|-----------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| Marc                        | Proficient                                              | keep it up                                                                                                    | no                                                         |
-| Rick                        | Advanced                                                | He helps where ever he can. He is a good leader that holds our group   together                               | no                                                         |
-| Thomas                      | Advanced                                                | Nice own input and projects                                                                                   | No                                                         |
-| Joēl                        | Advanced                                                | Overall a good leader. keeps the planning in mind and talks to the whole   group.                             | Perhaps let the others talk a little more.                 |
-| Anouk                       | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
-| A good person to work with. | Proficient                                              | Good at planning and organizing.                                                                              | No, I don't have.                                          |
+|        | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
+|--------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Marc   | Proficient                                              | keep it up                                                                                                    | no                                                         |
+| Rick   | Advanced                                                | He helps where ever he can. He is a good leader that holds our group   together                               | no                                                         |
+| Thomas | Advanced                                                | Nice own input and projects                                                                                   | No                                                         |
+| Joēl   | Advanced                                                | Overall a good leader. keeps the planning in mind and talks to the whole   group.                             | Perhaps let the others talk a little more.                 |
+| Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
+| Hristo | Proficient                                              | Good at planning and organizing.                                                                              | No, I don't have.                                          |
 
 
 ### Learning outcome 2: Security Specialist
