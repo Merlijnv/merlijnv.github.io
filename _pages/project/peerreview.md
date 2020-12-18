@@ -54,14 +54,15 @@ td:nth-child(3),td:nth-child(4) {
 
 ### Learning outcome 1: Personal development
 
-|        | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
-|--------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| Marc   | Proficient                                              | keep it up                                                                                                    | no                                                         |
-| Rick   | Advanced                                                | He helps where ever he can. He is a good leader that holds our group   together                               | no                                                         |
-| Thomas | Advanced                                                | Nice own input and projects                                                                                   | No                                                         |
-| Joēl   | Advanced                                                | Overall a good leader. keeps the planning in mind and talks to the whole   group.                             | Perhaps let the others talk a little more.                 |
-| Anouk  | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
-| hristo | No                                                      | No feedback yet                                                                                               | No feedback yet                                            |
+|                             | What level do you think I am on Personal   Development? | Do you have any mentions or tops concerning   Personal Development?                                           | Do you have any tips concerning Personal   Development?    |
+|-----------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Marc                        | Proficient                                              | keep it up                                                                                                    | no                                                         |
+| Rick                        | Advanced                                                | He helps where ever he can. He is a good leader that holds our group   together                               | no                                                         |
+| Thomas                      | Advanced                                                | Nice own input and projects                                                                                   | No                                                         |
+| Joēl                        | Advanced                                                | Overall a good leader. keeps the planning in mind and talks to the whole   group.                             | Perhaps let the others talk a little more.                 |
+| Anouk                       | Advanced                                                | Hij is een goede groepsleider, hij weet wat er gedaan moet worden en wat   de beste manier is om dit te doen. | Misschien wel andere mensen de ruimte geven om te spreken. |
+| A good person to work with. | Proficient                                              | Good at planning and organizing.                                                                              | No, I don't have.                                          |
+
 
 ### Learning outcome 2: Security Specialist
 
@@ -74,7 +75,7 @@ td:nth-child(3),td:nth-child(4) {
 | Thomas | Advanced                                                                     | Always helped me if I asked.                                                                      | No                                                                           |
 | Joēl   | Proficient                                                                   | very eager to learn, does not know everything, but certainly a lot.                               | None                                                                         |
 | Anouk  | Proficient                                                                   | Zijn website zit goed in elkaar en hij heeft over verschillende   onderwerpen opgeschreven.       | Niet echt, hij is goed bezig                                                 |
-| hristo | No                                                                           | No feedback yet                                                                                   | No feedback yet                                                              |
+| Hristo | Proficient                                                                   | Keeps a good level of technical skills and strives for improvements.                              | No, I don't have.                                                            |
 
 
 #### Procedural skills
@@ -86,12 +87,24 @@ td:nth-child(3),td:nth-child(4) {
 | Thomas | Proficient                                                                    | no                                                                                                                         | no                                                                            |
 | Joēl   | Proficient                                                                    | none                                                                                                                       | none                                                                          |
 | Anouk  | Proficient                                                                    | Zijn reports zitten goed in elkaar en hij schrijft ook alles op. Hij is   goed georganiseerd en heeft de planning op orde. | -                                                                             |
-| hristo | No                                                                            | No feedback yet                                                                                                            | No feedback yet                                                               |
+| Hristo | Proficient                                                                    | No, I don't have.                                                                                                          | No, I don't have.                                                             |
 
 
 ### Learning outcome 3: Research and development skills
 
 #### Technical skills R&D
+
+|        | What level do you think I am on Technical   R&D project skills? | Do you have any mentions or tops concerning   Technical R&D project skills?         | Do you have any tips concerning Technical   R&D project skills?                                          |
+|--------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Marc   | Advanced                                                        | Helpt a lot of people durring our R&D project                                       | keep on going                                                                                            |
+| Rick   | Advanced                                                        | We took a lot of work on him, doing really good                                     | Don't be afraid to delegate the work, others can do things too                                           |
+| Thomas | Proficient                                                      | Great skills                                                                        | Sometimes let other people learn in their skills instead of doing   everything on your own or with Rick. |
+| Joēl   | Proficient                                                      | none                                                                                | none                                                                                                     |
+| Anouk  | Proficient                                                      | Bij het Intersect project heeft hij goed meegeholpen en zelf ook veel   onderzocht. | -                                                                                                        |
+| Hristo | Proficient                                                      | Good team leader that is always ready to help the others with their   tasks.        | No, I don't have.                                                                                        |
+
+
+#### Methodical skills R&D
 
 |        | What level do you think I am on Methodical   R&D project process? | Do you have any mentions or tops concerning   Methodical R&D project process? | Do you have any tips concerning Methodical   R&D project process? |
 |--------|-------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------|
@@ -100,7 +113,7 @@ td:nth-child(3),td:nth-child(4) {
 | Thomas | Proficient                                                        | Great way of working, good team effort but you were a good leader             | no                                                                |
 | Joēl   | Proficient                                                        | none                                                                          | none                                                              |
 | Anouk  | Proficient                                                        | -                                                                             | -                                                                 |
-| hristo | No                                                                | No feedback yet                                                               | No feedback yet                                                   |
+| Hristo | Proficient                                                        | No, I don't have.                                                             | No, I don't have.                                                 |
 
 
 #### Collaboration and Communication skills R&D
@@ -112,4 +125,4 @@ td:nth-child(3),td:nth-child(4) {
 | Thomas | Proficient                                                                | No                                                                                    | Don't speak too much. If someone askes you something don't overrule them   with a bunch of information, keep it short and powerful. Also remember that   there are people who are a bit shy or uncertain, let them speak and exercise   more. |
 | Joēl   | Proficient                                                                | praat goed met klas genoten                                                           | moet mensen (thomas, anouck en rhisto) vaker laten praten. EN MIJN NAAM   IS NIET JOEL                                                                                                                                                        |
 | Anouk  | Proficient                                                                | Je werkt goed samen met anderen en communiceerd goed.                                 | Misschien wel andere de ruimte geven om te spreken.                                                                                                                                                                                           |
-| hristo | No                                                                        | No feedback yet                                                                       | No feedback yet                                                                                                                                                                                                                               |
+| Hristo | Proficient                                                                | Good communication skills.                                                            | Overexplains things sometimes. Should strive for telling more with less   words.                                                                                                                                                              |
