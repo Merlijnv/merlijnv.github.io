@@ -46,8 +46,8 @@ At the last sprint I have gotten individual feedback from all group members on a
 I did this by making a google form with all the learning outcomes and their levels explained and a tips and a tops field.
 
 <style>
-d:not(:first-child) {
-    width: 32%;
+td:nth-child(3),td:nth-child(4) {
+    width: 44%;
 }
 </style>
 
