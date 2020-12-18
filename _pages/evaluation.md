@@ -21,6 +21,13 @@ I also asked a lot of feedback compared to other semesters from both peers and t
 After this semester I am going to do my graduation internship.
 In my project proposal I have put some learning objectives on my personal development:
 
+<style>
+table {
+    margin: 0;
+    width: 100%;
+}
+</style>
+
 |     Personal development goal          |     How to work on this                                                                                                                                                                                    |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Collaboration and Communication    |     During my internship period I want to give   other people the change to give their opinion about a subject by waiting to give   my own opinion until the rest gave.                                    |
