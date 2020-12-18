@@ -45,6 +45,12 @@ I got some feedback on giving other people more room to speak and I am going to 
 At the last sprint I have gotten individual feedback from all group members on all learning outcomes.
 I did this by making a google form with all the learning outcomes and their levels explained and a tips and a tops field.
 
+<style>
+d:not(:first-child) {
+    width: 32%;
+}
+</style>
+
 
 ### Learning outcome 1: Personal development
 
