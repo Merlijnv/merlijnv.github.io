@@ -16,7 +16,7 @@ My research skills improved and also my scrum skills.
 Besides that I improved in writing I took more time for it and planned it better than other semesters.
 I also asked a lot of feedback compared to other semesters from both peers and teachers.
 
-### Learning outcomes
+## Learning outcomes
 
 For further reflection on my learning outcomes you can see the [homepage](/) where I explain what level I think I am and why.
 I think I did a really good job with my learning outcomes I improved the ones I am normally bad at and kept improving the ones I was already good at.
