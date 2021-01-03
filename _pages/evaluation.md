@@ -33,3 +33,8 @@ table {
 |     Collaboration and Communication    |     During my internship period I want to give   other people the change to give their opinion about a subject by waiting to give   my own opinion until the rest gave.                                    |
 |     Documentation                      |     I want to improve my documentation to a   better grade. I want to do this by getting more feedback from others before I   hand something in.                                                           |
 |     Research                           |     I want to make sure that I do triangulation   on every possible research question and on the overall research cover all   strategies of the DOT Framework (Library, Field, Lab, Showroom, Workshop)    |
+
+### Learning outcomes
+
+For further reflection on my learning outcomes you can see the [homepage](/) where I explain what level I think I am and why.
+I think I did a really good job with my learning outcomes I improved the ones I am normally bad at and kept improving the ones I was already good at.

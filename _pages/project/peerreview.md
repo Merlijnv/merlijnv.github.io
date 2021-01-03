@@ -49,6 +49,10 @@ I did this by making a google form with all the learning outcomes and their leve
 td:nth-child(3),td:nth-child(4) {
     width: 44%;
 }
+tr td:first-child {
+    font-size: 20px;
+    font-weight: bolder;
+}
 </style>
 
 
